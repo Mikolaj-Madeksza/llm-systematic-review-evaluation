@@ -1,0 +1,1454 @@
+{
+  "groups:claude:435": {
+    "target_id": "garg_2015:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Metformin + vitamin D 4000 IU/day (monthly 120,000 IU)",
+    "reference_label": "Metformin + vitamin D 4000 IU/day"
+  },
+  "groups:claude:590": {
+    "target_id": "salekzamani_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 50,000 IU/week",
+    "reference_label": "50,000 IU cholecalciferol weekly"
+  },
+  "groups:claude:591": {
+    "target_id": "salekzamani_2016:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Matching placebo weekly"
+  },
+  "groups:claude:596": {
+    "target_id": "shab_bidar_2011:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3-fortified doogh (FYD; 500 IU/250 mL twice daily, 1000 IU/day)",
+    "reference_label": "Vitamin D3-fortified doogh containing calcium and 500 IU vitamin D3 per 250 mL"
+  },
+  "groups:claude:597": {
+    "target_id": "shab_bidar_2011:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Plain doogh (PYD; no vitamin D, 170 mg calcium/250 mL twice daily)",
+    "reference_label": "Plain doogh containing calcium and no detectable vitamin D"
+  },
+  "groups:claude:604": {
+    "target_id": "sharifi_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU pearl every 14 days",
+    "reference_label": "Vitamin D3 50,000 IU every 14 days"
+  },
+  "groups:claude:605": {
+    "target_id": "sharifi_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo pearl (edible paraffin) every 14 days",
+    "reference_label": "Placebo pearls"
+  },
+  "groups:claude:530": {
+    "target_id": "mousa_2017:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (100,000 IU bolus then 4000 IU/d cholecalciferol)",
+    "reference_label": "Vitamin D group"
+  },
+  "groups:claude:531": {
+    "target_id": "mousa_2017:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo group"
+  },
+  "groups:claude:550": {
+    "target_id": "osati_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 50,000 IU/week pearls",
+    "reference_label": "Vitamin D 50,000 IU weekly"
+  },
+  "groups:claude:551": {
+    "target_id": "osati_2016:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (sunflower oil pearls)",
+    "reference_label": "Placebo similar pearls containing sunflower oil"
+  },
+  "groups:claude:582": {
+    "target_id": "salarinia_2023:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Control (daily activities only)",
+    "reference_label": "Control with daily activities only"
+  },
+  "groups:claude:395": {
+    "target_id": "cefalo_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Hypocaloric diet + cholecalciferol 25,000 IU/wk",
+    "reference_label": "Oral cholecalciferol 25,000 IU/week plus hypocaloric diet"
+  },
+  "groups:claude:396": {
+    "target_id": "cefalo_2018:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Hypocaloric diet + placebo",
+    "reference_label": "Placebo plus hypocaloric diet"
+  },
+  "groups:claude:389": {
+    "target_id": "bhatt_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (cholecalciferol 60,000 IU/week x 8 weeks, repeated if deficient) + calcium carbonate",
+    "reference_label": "Vitamin D supplementation plus calcium carbonate"
+  },
+  "groups:claude:390": {
+    "target_id": "bhatt_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (lactose granules) + calcium carbonate",
+    "reference_label": "Placebo plus calcium carbonate"
+  },
+  "groups:claude:615": {
+    "target_id": "tabesh_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Calcium 1,000 mg/day + vitamin D placebo",
+    "reference_label": "Calcium 1,000 mg/day plus weekly vitamin D placebo"
+  },
+  "groups:claude:616": {
+    "target_id": "tabesh_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 50,000 U/week + calcium placebo",
+    "reference_label": "Vitamin D3 50,000 U/week plus daily calcium placebo"
+  },
+  "groups:claude:617": {
+    "target_id": "tabesh_2014:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Calcium 1,000 mg/day + vitamin D 50,000 U/week",
+    "reference_label": "Calcium 1,000 mg/day plus vitamin D3 50,000 U/week"
+  },
+  "groups:claude:618": {
+    "target_id": "tabesh_2014:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Double placebo (calcium + vitamin D placebos)",
+    "reference_label": "Vitamin D placebo plus calcium placebo"
+  },
+  "groups:claude:333": {
+    "target_id": "agbalalah_2023:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 125 \u03bcg/day (5000 IU/day)",
+    "reference_label": "Vitamin D intervention"
+  },
+  "groups:claude:344": {
+    "target_id": "al_mulhim_2015:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU/week drops",
+    "reference_label": "Vitamin D3 drops 50,000 IU/week"
+  },
+  "groups:claude:345": {
+    "target_id": "al_mulhim_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (normal saline drops)",
+    "reference_label": "Normal saline placebo drops/week"
+  },
+  "groups:claude:471": {
+    "target_id": "irani_2015:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU/week for 8 weeks",
+    "reference_label": "Vitamin D 50,000 IU once weekly"
+  },
+  "groups:claude:472": {
+    "target_id": "irani_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (lactose monohydrate) weekly for 8 weeks",
+    "reference_label": "Placebo once weekly"
+  },
+  "groups:claude:484": {
+    "target_id": "jorde_2009:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Cholecalciferol 40,000 IU/week",
+    "reference_label": "Cholecalciferol 40,000 IU per week"
+  },
+  "groups:claude:485": {
+    "target_id": "jorde_2009:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo capsules"
+  },
+  "groups:claude:621": {
+    "target_id": "tepper_2016:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (aqueous solution)",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:429": {
+    "target_id": "foroughi_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU/week",
+    "reference_label": "Vitamin D supplements"
+  },
+  "groups:claude:556": {
+    "target_id": "rajabi_naeeni_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (omega-3 placebo + vitamin D placebo)",
+    "reference_label": "Omega-3 placebo twice daily and vitamin D placebo every 2 weeks"
+  },
+  "groups:claude:557": {
+    "target_id": "rajabi_naeeni_2020:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (50,000 IU every 2 weeks) + omega-3 placebo",
+    "reference_label": "Omega-3 placebo twice daily and 50,000 IU vitamin D every 2 weeks"
+  },
+  "groups:claude:558": {
+    "target_id": "rajabi_naeeni_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Omega-3 (1000 mg twice daily) + vitamin D placebo",
+    "reference_label": "1000 mg omega-3 twice daily and vitamin D placebo every 2 weeks"
+  },
+  "groups:claude:559": {
+    "target_id": "rajabi_naeeni_2020:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D + omega-3 co-supplementation",
+    "reference_label": "1000 mg omega-3 twice daily and 50,000 IU vitamin D every 2 weeks"
+  },
+  "groups:claude:466": {
+    "target_id": "imanparast_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo of vitamin D3",
+    "reference_label": "Placebo of vitamin D3 one tablet/week"
+  },
+  "groups:claude:467": {
+    "target_id": "imanparast_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU/week",
+    "reference_label": "Vitamin D3 50000 IU/week"
+  },
+  "groups:claude:469": {
+    "target_id": "imanparast_2020:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU/week + CrPic 500 \u03bcg/day",
+    "reference_label": "Vitamin D3 50000 IU/week and CrPic 500 \u03bcg/day"
+  },
+  "groups:claude:408": {
+    "target_id": "dutta_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin-D (cholecalciferol 60,000 U weekly then monthly) + calcium carbonate",
+    "reference_label": "Vitamin-D insufficient/deficient prediabetes receiving vitamin-D plus calcium carbonate"
+  },
+  "groups:claude:409": {
+    "target_id": "dutta_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Calcium carbonate only (vitamin-D insufficient/deficient)",
+    "reference_label": "Vitamin-D insufficient/deficient prediabetes receiving calcium carbonate"
+  },
+  "groups:claude:410": {
+    "target_id": null,
+    "reason": "Nonrandomized vitamin-D-sufficient cohort excluded by locked group decision.",
+    "source_label": "Vitamin-D sufficient (25OHD >30 ng/ml) receiving calcium carbonate"
+  },
+  "groups:gpt:238": {
+    "target_id": "rasouli_2021:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Matching placebo",
+    "reference_label": "Matching placebo daily"
+  },
+  "groups:claude:570": {
+    "target_id": "rezagholizadeh_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 4000 IU/day",
+    "reference_label": "Vitamin D3 100 micrograms or 4000 IU daily"
+  },
+  "groups:claude:571": {
+    "target_id": "rezagholizadeh_2018:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo tablet daily"
+  },
+  "groups:claude:342": {
+    "target_id": "ahmed_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Matching placebo"
+  },
+  "groups:claude:584": {
+    "target_id": "salehi_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Plain (unfortified) low-fat milk 250 ml/day",
+    "reference_label": "Plain milk"
+  },
+  "groups:claude:585": {
+    "target_id": "salehi_2018:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3-fortified low-fat milk 250 ml/day (1000 IU)",
+    "reference_label": "Vitamin D3-fortified milk"
+  },
+  "groups:claude:356": {
+    "target_id": "alvina_2023:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 5000 IU/day",
+    "reference_label": "Vitamin D 5000 IU daily"
+  },
+  "groups:claude:357": {
+    "target_id": "alvina_2023:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo tablets daily"
+  },
+  "groups:claude:497": {
+    "target_id": "kumar_2024:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Oral Vitamin D3 + standard anti-diabetic drugs",
+    "reference_label": "Oral vitamin D plus standard anti-diabetic drugs"
+  },
+  "groups:claude:498": {
+    "target_id": "kumar_2024:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Standard anti-diabetic drugs only (control)",
+    "reference_label": "Control group receiving standard anti-diabetic treatment"
+  },
+  "groups:claude:384": {
+    "target_id": "barengolts_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D2 (ergocalciferol) 50,000 IU/week",
+    "reference_label": "Ergocalciferol 50,000 IU weekly"
+  },
+  "groups:claude:494": {
+    "target_id": "krul_poel_2015:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU/month",
+    "reference_label": "Cholecalciferol 50,000 IU once a month"
+  },
+  "groups:claude:495": {
+    "target_id": "krul_poel_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Identically looking placebo once a month"
+  },
+  "groups:claude:491": {
+    "target_id": "kampmann_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Cholecalciferol 11,200 IU/day for 2 weeks then 5,600 IU/day for 10 weeks",
+    "reference_label": "Cholecalciferol 11,200 IU daily for two weeks, followed by 5600 IU daily for 10 weeks"
+  },
+  "groups:claude:492": {
+    "target_id": "kampmann_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Physically similar placebo daily for 12 weeks"
+  },
+  "groups:gpt:317": {
+    "target_id": "yeow_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Matching placebo capsules",
+    "reference_label": "Placebo (matching soy oil capsules)"
+  },
+  "groups:claude:368": {
+    "target_id": "asemi_2015:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Calcium placebo + vitamin D placebo",
+    "reference_label": "Calcium placebo plus vitamin D placebo"
+  },
+  "groups:claude:369": {
+    "target_id": "asemi_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "1000 mg/d calcium + vitamin D placebo",
+    "reference_label": "1000 mg/day calcium plus vitamin D placebo"
+  },
+  "groups:claude:370": {
+    "target_id": "asemi_2015:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "50,000 IU/wk vitamin D + calcium placebo",
+    "reference_label": "50,000 IU/week vitamin D plus calcium placebo"
+  },
+  "groups:claude:371": {
+    "target_id": "asemi_2015:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "1000 mg/d calcium + 50,000 IU/wk vitamin D",
+    "reference_label": "1000 mg/day calcium plus 50,000 IU/week vitamin D"
+  },
+  "groups:claude:636": {
+    "target_id": "wallace_2019:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 3000 IU daily",
+    "reference_label": "3000 IU vitamin D3 daily"
+  },
+  "groups:claude:405": {
+    "target_id": "dastorani_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 50,000 IU every other week",
+    "reference_label": "50,000 IU vitamin D every other week"
+  },
+  "groups:claude:406": {
+    "target_id": "dastorani_2018:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (paraffin)",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:353": {
+    "target_id": "aliashrafi_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Weight-loss diet + 50,000 IU/week vitamin D3",
+    "reference_label": "Energy restriction diet and 50000 IU/week vitamin D"
+  },
+  "groups:claude:354": {
+    "target_id": "aliashrafi_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Weight-loss diet + placebo",
+    "reference_label": "Energy restriction diet and placebo"
+  },
+  "groups:claude:503": {
+    "target_id": "mahmood_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 60,000 IU/week for 8 weeks then 60,000 IU monthly for 4 months",
+    "reference_label": "Vitamin D supplementation"
+  },
+  "groups:claude:464": {
+    "target_id": "hussain_2019:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (liquid paraffin) capsule weekly",
+    "reference_label": "Placebo capsule"
+  },
+  "groups:claude:412": {
+    "target_id": "ebadi_2021:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU/week",
+    "reference_label": "Vitamin D3 50,000 IU weekly"
+  },
+  "groups:claude:599": {
+    "target_id": "sharifan_2021:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Fortified low-fat milk (1500 IU nano-encapsulated vitamin D3/200 g/d)",
+    "reference_label": "Fortified low-fat milk containing 1500 IU nano encapsulated vitamin D3 per 200 cc/day"
+  },
+  "groups:claude:600": {
+    "target_id": "sharifan_2021:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Non-fortified low-fat milk (200 g/d)",
+    "reference_label": "Non-fortified low-fat milk 200 cc/day"
+  },
+  "groups:claude:601": {
+    "target_id": "sharifan_2021:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Fortified low-fat yogurt (1500 IU nano-encapsulated vitamin D3/150 g/d)",
+    "reference_label": "Fortified low-fat yogurt containing 1500 IU nano encapsulated vitamin D3 per 150 g/day"
+  },
+  "groups:claude:602": {
+    "target_id": "sharifan_2021:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Non-fortified low-fat yogurt (150 g/d)",
+    "reference_label": "Non-fortified low-fat yogurt 150 g/day"
+  },
+  "groups:claude:540": {
+    "target_id": "nimitphong_2015:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Control (no vitamin D)",
+    "reference_label": "Control, no vitamin D"
+  },
+  "groups:claude:541": {
+    "target_id": "nimitphong_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D2 20,000 IU/week",
+    "reference_label": "Vitamin D2 20,000 IU weekly"
+  },
+  "groups:claude:542": {
+    "target_id": "nimitphong_2015:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 15,000 IU/week",
+    "reference_label": "Vitamin D3 15,000 IU weekly"
+  },
+  "groups:claude:652": {
+    "target_id": "zaromytidou_2022:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 25,000 IU weekly + lifestyle measures",
+    "reference_label": "Vitamin D3 25,000 IU weekly plus lifestyle change"
+  },
+  "groups:claude:653": {
+    "target_id": "zaromytidou_2022:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Lifestyle measures only (no treatment)",
+    "reference_label": "Lifestyle change only"
+  },
+  "groups:claude:415": {
+    "target_id": "el_hajj_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (cholecalciferol 30,000 IU/week)",
+    "reference_label": "Vitamin D supplemented group"
+  },
+  "groups:claude:416": {
+    "target_id": "el_hajj_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo pill",
+    "reference_label": "Placebo group"
+  },
+  "groups:claude:359": {
+    "target_id": "angellotti_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 4000 IU/day",
+    "reference_label": "Vitamin D3 4000 IU daily"
+  },
+  "groups:claude:501": {
+    "target_id": "lemieux_2019:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo daily"
+  },
+  "groups:claude:520": {
+    "target_id": "moreira_lucas_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 28,000 IU/week in cheese",
+    "reference_label": "Vitamin D cheese"
+  },
+  "groups:claude:544": {
+    "target_id": "niroomand_2019:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU weekly for 3 months, then monthly",
+    "reference_label": "Vitamin D"
+  },
+  "groups:claude:545": {
+    "target_id": "niroomand_2019:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo pearls (paraffin, matched appearance)",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:526": {
+    "target_id": "mostafai_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Fortified yogurt with vitamin D (1000 IU)",
+    "reference_label": "Group A: fortified yogurt with vitamin D"
+  },
+  "groups:claude:527": {
+    "target_id": "mostafai_2018:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Plain yogurt",
+    "reference_label": "Group B: plain yogurt"
+  },
+  "groups:claude:528": {
+    "target_id": "mostafai_2018:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Oral vitamin D supplement (1000 IU)",
+    "reference_label": "Group C: oral vitamin D supplement"
+  },
+  "groups:claude:474": {
+    "target_id": "jafari_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D-fortified low-fat yogurt (2000 IU/100 g/day)",
+    "reference_label": "Vitamin D-fortified low fat yogurt"
+  },
+  "groups:claude:475": {
+    "target_id": "jafari_2016:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Plain low-fat yogurt (placebo)",
+    "reference_label": "Plain low fat yogurt"
+  },
+  "groups:claude:573": {
+    "target_id": "ryu_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (calcium 100 mg twice daily)",
+    "reference_label": "Placebo with elemental calcium twice daily"
+  },
+  "groups:claude:574": {
+    "target_id": "ryu_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 1000 IU twice daily + calcium 100 mg twice daily",
+    "reference_label": "Vitamin D with elemental calcium twice daily"
+  },
+  "groups:claude:373": {
+    "target_id": "bahramian_2023:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (50,000 IU/weekly) + daily placebo",
+    "reference_label": "Vitamin D 50,000 IU weekly plus daily placebo capsules"
+  },
+  "groups:claude:374": {
+    "target_id": "bahramian_2023:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Omega-3 (2 capsules/daily) + weekly placebo",
+    "reference_label": "Omega-3 capsules daily plus weekly placebo capsule"
+  },
+  "groups:claude:375": {
+    "target_id": "bahramian_2023:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D + Omega-3 co-supplementation",
+    "reference_label": "Vitamin D 50,000 IU weekly plus omega-3 capsules daily"
+  },
+  "groups:claude:376": {
+    "target_id": "bahramian_2023:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (paraffin oil) weekly + daily",
+    "reference_label": "Placebo capsules weekly and daily"
+  },
+  "groups:claude:487": {
+    "target_id": "jorde_2010:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Cholecalciferol 40,000 IU/week + 500 mg calcium/day (DD)",
+    "reference_label": "Calcium 500 mg per day + cholecalciferol 40,000 IU per week"
+  },
+  "groups:claude:488": {
+    "target_id": "jorde_2010:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Cholecalciferol 20,000 IU/week + 500 mg calcium/day (DP)",
+    "reference_label": "Calcium 500 mg per day + cholecalciferol 20,000 IU per week"
+  },
+  "groups:claude:489": {
+    "target_id": "jorde_2010:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo + 500 mg calcium/day (PP)",
+    "reference_label": "Calcium 500 mg per day + placebo"
+  },
+  "groups:claude:547": {
+    "target_id": "oosterwerff_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 1200 IU/d + calcium 500 mg/d",
+    "reference_label": "Vitamin D 1200 IU/d and calcium 500 mg/d"
+  },
+  "groups:claude:548": {
+    "target_id": "oosterwerff_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo + calcium 500 mg/d",
+    "reference_label": "Placebo and calcium 500 mg/d"
+  },
+  "groups:claude:536": {
+    "target_id": "nikooyeh_2011:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Plain yogurt drink (PY)",
+    "reference_label": "Plain yogurt drink"
+  },
+  "groups:claude:537": {
+    "target_id": "nikooyeh_2011:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D\u2013fortified yogurt drink (DY)",
+    "reference_label": "Vitamin D-fortified yogurt drink"
+  },
+  "groups:claude:538": {
+    "target_id": "nikooyeh_2011:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D + calcium\u2013fortified yogurt drink (DCY)",
+    "reference_label": "Vitamin D + calcium-fortified yogurt drink"
+  },
+  "groups:claude:587": {
+    "target_id": "salehpour_2013:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 25 \u03bcg/day (cholecalciferol)",
+    "reference_label": "Vitamin D3 25 \u03bcg/day as cholecalciferol tablets"
+  },
+  "groups:claude:588": {
+    "target_id": "salehpour_2013:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (25 \u03bcg lactose)",
+    "reference_label": "Placebo 25 \u03bcg as lactose"
+  },
+  "groups:claude:386": {
+    "target_id": "baziar_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 50,000 IU/week for 8 weeks",
+    "reference_label": "Vitamin D 50000 IU/week"
+  },
+  "groups:claude:387": {
+    "target_id": "baziar_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (paraffin) for 8 weeks",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:477": {
+    "target_id": "jamilian_2017:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo + metformin",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:478": {
+    "target_id": "jamilian_2017:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Low-dose vitamin D (1000 IU/day) + metformin",
+    "reference_label": "Low-dose vitamin D"
+  },
+  "groups:claude:479": {
+    "target_id": "jamilian_2017:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "High-dose vitamin D (4000 IU/day) + metformin",
+    "reference_label": "High-dose vitamin D"
+  },
+  "groups:claude:362": {
+    "target_id": "anyanwu_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 3000 IU/day",
+    "reference_label": "Vitamin D3 3000 IU daily"
+  },
+  "groups:claude:363": {
+    "target_id": "anyanwu_2016:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (50 mg corn starch)",
+    "reference_label": "Placebo made of 50 mg corn starch"
+  },
+  "groups:claude:438": {
+    "target_id": "ghani_2022:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (cholecalciferol 60,000 IU weekly x8 wk then monthly x4 mo)",
+    "reference_label": "Cholecalciferol 60,000 IU once weekly for 8 weeks then monthly for 4 months"
+  },
+  "groups:claude:439": {
+    "target_id": "ghani_2022:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (microcrystalline cellulose + butylated hydroxytoluene)",
+    "reference_label": "Placebo containing microcrystalline cellulose and butylated hydroxyl toluene"
+  },
+  "groups:claude:577": {
+    "target_id": "safarpour_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (oral paraffin pearls)",
+    "reference_label": "Placebo similar pearls containing oral paraffin"
+  },
+  "groups:claude:561": {
+    "target_id": "rashad_2019:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 42,000 IU/week + 500 mg calcium/day",
+    "reference_label": "Vitamin D 42,000 IU/week plus calcium carbonate 500 mg/day"
+  },
+  "groups:claude:562": {
+    "target_id": "rashad_2019:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "500 mg calcium/day (non-intervention)",
+    "reference_label": "Calcium carbonate 500 mg/day non-intervention group"
+  },
+  "groups:claude:514": {
+    "target_id": "mohammadi_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 50,000 IU weekly + lifestyle change",
+    "reference_label": "Vitamin D 50000 IU weekly plus lifestyle change"
+  },
+  "groups:claude:515": {
+    "target_id": "mohammadi_2016:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo + lifestyle change",
+    "reference_label": "Placebo plus lifestyle change"
+  },
+  "groups:claude:481": {
+    "target_id": "javed_2019:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 3200 IU/day",
+    "reference_label": "Vitamin D 3200 IU"
+  },
+  "groups:claude:458": {
+    "target_id": "hoseini_2022:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Aerobic training + Vitamin D",
+    "reference_label": "AT + Vit D"
+  },
+  "groups:claude:459": {
+    "target_id": "hoseini_2022:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Aerobic training + placebo",
+    "reference_label": "AT + placebo"
+  },
+  "groups:claude:460": {
+    "target_id": "hoseini_2022:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D",
+    "reference_label": "Vit D"
+  },
+  "groups:claude:564": {
+    "target_id": "rashad_2023:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D + weight-reduction diet (50,000 IU/week for 2 months, then 25,000 IU/week for 1 month)",
+    "reference_label": "Vitamin D + diet"
+  },
+  "groups:claude:565": {
+    "target_id": "rashad_2023:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Weight-reduction diet only",
+    "reference_label": "Diet"
+  },
+  "groups:claude:658": {
+    "target_id": "zhang_2023:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D + Calcium (1600 IU/d + 500 mg/d)",
+    "reference_label": "1600 IU/day vitamin D + 500 mg/day calcium"
+  },
+  "groups:claude:659": {
+    "target_id": "zhang_2023:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (1600 IU/d)",
+    "reference_label": "1600 IU/day vitamin D"
+  },
+  "groups:claude:660": {
+    "target_id": "zhang_2023:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Calcium (500 mg/d)",
+    "reference_label": "500 mg/day calcium"
+  },
+  "groups:claude:661": {
+    "target_id": "zhang_2023:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo capsules/day"
+  },
+  "groups:gpt:312": {
+    "target_id": "wongwiwatthananukit_2013:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo, two placebo capsules per week",
+    "reference_label": "Placebo (2 placebo capsules/week)"
+  },
+  "groups:gpt:313": {
+    "target_id": "wongwiwatthananukit_2013:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D2 20,000 IU per week plus one placebo capsule",
+    "reference_label": "Vitamin D2 20,000 IU/week (1 D2 + 1 placebo capsule)"
+  },
+  "groups:gpt:314": {
+    "target_id": "wongwiwatthananukit_2013:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D2 40,000 IU per week, two vitamin D2 capsules",
+    "reference_label": "Vitamin D2 40,000 IU/week (2 D2 capsules/week)"
+  },
+  "groups:claude:649": {
+    "target_id": "yousefi_rad_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 4000 IU/day",
+    "reference_label": "Vitamin D 100 microgram or 4000 IU daily"
+  },
+  "groups:claude:650": {
+    "target_id": "yousefi_rad_2014:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo tablet daily"
+  },
+  "groups:claude:610": {
+    "target_id": "sun_2023:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Exercise + Vitamin D 1000 IU/day",
+    "reference_label": "Exercise training and vitamin D supplementation"
+  },
+  "groups:claude:611": {
+    "target_id": "sun_2023:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 1000 IU/day",
+    "reference_label": "Vitamin D supplementation"
+  },
+  "groups:claude:612": {
+    "target_id": "sun_2023:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Exercise + placebo",
+    "reference_label": "Exercise training"
+  },
+  "groups:claude:630": {
+    "target_id": "von_hurst_2010:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 100 \u03bcg (4000 IU)/day",
+    "reference_label": "100 \u03bcg (4000 IU) vitamin D3 per day"
+  },
+  "groups:claude:631": {
+    "target_id": "von_hurst_2010:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Four capsules of placebo per day"
+  },
+  "groups:claude:441": {
+    "target_id": "guo_2022:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Fish oil plus vitamin D3 (FO+D)",
+    "reference_label": "Fish oil plus vitamin D3"
+  },
+  "groups:claude:442": {
+    "target_id": "guo_2022:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Fish oil (FO)",
+    "reference_label": "Fish oil"
+  },
+  "groups:claude:443": {
+    "target_id": "guo_2022:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Corn oil control (CO)",
+    "reference_label": "Corn oil"
+  },
+  "groups:gpt:293": {
+    "target_id": "trummer_2019:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 20,000 IU cholecalciferol weekly",
+    "reference_label": "Cholecalciferol 20,000 IU/week"
+  },
+  "groups:gpt:294": {
+    "target_id": "trummer_2019:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo oily drops without cholecalciferol weekly",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:633": {
+    "target_id": "wagner_2016:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 30,000 IU/week",
+    "reference_label": "Vitamin D3 30,000 IU once weekly"
+  },
+  "groups:claude:634": {
+    "target_id": "wagner_2016:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo oil",
+    "reference_label": "Matching placebo oil once weekly"
+  },
+  "groups:claude:378": {
+    "target_id": "banikazemi_2025:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (probiotic placebo + vitamin D placebo + inositol)",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:379": {
+    "target_id": "banikazemi_2025:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Probiotic + vitamin D placebo + inositol",
+    "reference_label": "Probiotic"
+  },
+  "groups:claude:380": {
+    "target_id": "banikazemi_2025:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 4000 IU + probiotic placebo + inositol",
+    "reference_label": "Vitamin D"
+  },
+  "groups:claude:381": {
+    "target_id": "banikazemi_2025:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Probiotic + vitamin D 4000 IU + inositol",
+    "reference_label": "Probiotic plus vitamin D"
+  },
+  "groups:gpt:115": {
+    "target_id": "hajipoor_2022:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Regular low-fat yogurt with a low-calorie diet",
+    "reference_label": "Regular low-fat yogurt + low-calorie diet (RYLCD)"
+  },
+  "groups:gpt:116": {
+    "target_id": "hajipoor_2022:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Probiotic low-fat yogurt with a low-calorie diet",
+    "reference_label": "Probiotic yogurt + low-calorie diet (PYLCD)"
+  },
+  "groups:gpt:117": {
+    "target_id": "hajipoor_2022:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D-fortified low-fat yogurt with a low-calorie diet",
+    "reference_label": "Vitamin D-fortified yogurt + low-calorie diet (VDYLCD)"
+  },
+  "groups:gpt:118": {
+    "target_id": "hajipoor_2022:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Low-fat yogurt fortified with probiotics and vitamin D with a low-calorie diet",
+    "reference_label": "Probiotic and vitamin D co-fortified yogurt + low-calorie diet (PVDYLCD)"
+  },
+  "groups:claude:365": {
+    "target_id": "ardabili_2012:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 (50,000 IU every 20 days \u00d7 3 doses)",
+    "reference_label": "Vitamin D3 50,000 IU every 20 days"
+  },
+  "groups:claude:366": {
+    "target_id": "ardabili_2012:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo every 20 days"
+  },
+  "groups:claude:424": {
+    "target_id": "foroozanfard_2015:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Calcium 1000 mg/day + vitamin D placebo",
+    "reference_label": "1000 mg calcium daily and vitamin D placebo weekly"
+  },
+  "groups:claude:425": {
+    "target_id": "foroozanfard_2015:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 50000 IU/week + calcium placebo",
+    "reference_label": "50000 IU vitamin D weekly and calcium placebo daily"
+  },
+  "groups:claude:426": {
+    "target_id": "foroozanfard_2015:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Calcium 1000 mg/day + vitamin D 50000 IU/week",
+    "reference_label": "1000 mg calcium daily plus 50000 IU vitamin D weekly"
+  },
+  "groups:claude:427": {
+    "target_id": "foroozanfard_2015:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (calcium placebo + vitamin D placebo)",
+    "reference_label": "Calcium placebo daily plus vitamin D placebo weekly"
+  },
+  "groups:claude:418": {
+    "target_id": "elkassaby_2014:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 6000 IU/day",
+    "reference_label": "Vitamin D3"
+  },
+  "groups:gpt:80": {
+    "target_id": null,
+    "reason": "Nonrandomized vitamin-D-sufficient cohort excluded by locked group decision.",
+    "source_label": "Vitamin-D sufficient prediabetes receiving calcium carbonate"
+  },
+  "groups:claude:392": {
+    "target_id": "carrillo_2013:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 4000 IU/day",
+    "reference_label": "Vitamin D3 4000 IU/day"
+  },
+  "groups:claude:393": {
+    "target_id": "carrillo_2013:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Placebo microcrystalline cellulose"
+  },
+  "groups:claude:517": {
+    "target_id": "molani_gol_2025:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (50,000 IU every two weeks)",
+    "reference_label": "Vitamin D 50,000 IU every two weeks"
+  },
+  "groups:claude:518": {
+    "target_id": "molani_gol_2025:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (sunflower oil)",
+    "reference_label": "Placebo"
+  },
+  "groups:claude:450": {
+    "target_id": "harris_2012:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 4000 IU/day",
+    "reference_label": "Vitamin D intervention"
+  },
+  "groups:claude:533": {
+    "target_id": "naderpoor_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Cholecalciferol (100,000 IU bolus then 4000 IU/day for 16 weeks)",
+    "reference_label": "Cholecalciferol 100,000 IU bolus followed by 4000 IU daily"
+  },
+  "groups:claude:593": {
+    "target_id": "seyyed_abootorabi_2018:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU oral once weekly",
+    "reference_label": "Vitamin D group"
+  },
+  "groups:claude:594": {
+    "target_id": "seyyed_abootorabi_2018:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (oral capsule once weekly)",
+    "reference_label": "Placebo group"
+  },
+  "groups:claude:421": {
+    "target_id": "esfandiari_2019:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 50,000 IU weekly",
+    "reference_label": "Vitamin D3 50000 IU weekly"
+  },
+  "groups:claude:422": {
+    "target_id": "esfandiari_2019:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (Miglyol oil)",
+    "reference_label": "Placebo containing Miglyol oil"
+  },
+  "groups:claude:523": {
+    "target_id": "morvaridzadeh_2021:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Probiotic yogurt fortified with vitamin D (Pro-YFD)",
+    "reference_label": "Probiotic yogurt fortified with vitamin D"
+  },
+  "groups:claude:524": {
+    "target_id": "morvaridzadeh_2021:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Unfortified probiotic yogurt (PY)",
+    "reference_label": "Probiotic yogurt"
+  },
+  "groups:gpt:179": {
+    "target_id": "mitri_2011:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 2000 IU/day and calcium 800 mg/day",
+    "reference_label": "Vitamin D + Calcium"
+  },
+  "groups:gpt:180": {
+    "target_id": "mitri_2011:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D 2000 IU/day and calcium-placebo",
+    "reference_label": "Vitamin D + Placebo"
+  },
+  "groups:gpt:181": {
+    "target_id": "mitri_2011:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D-placebo and calcium 800 mg/day",
+    "reference_label": "Placebo + Calcium"
+  },
+  "groups:gpt:182": {
+    "target_id": "mitri_2011:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D-placebo and calcium-placebo",
+    "reference_label": "Placebo + Placebo"
+  },
+  "groups:claude:655": {
+    "target_id": "zarrin_2017:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D3 1000 IU/day",
+    "reference_label": "Vitamin D3 1000 IU daily"
+  },
+  "groups:claude:656": {
+    "target_id": "zarrin_2017:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo",
+    "reference_label": "Identical placebo tablet daily"
+  },
+  "groups:claude:640": {
+    "target_id": "wamberg_2013:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Cholecalciferol 7000 IU/day",
+    "reference_label": "Cholecalciferol 7000 IU daily"
+  },
+  "groups:claude:401": {
+    "target_id": "dall_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D (1000 IU vitamin D3)",
+    "reference_label": "Vitamin D Group"
+  },
+  "groups:claude:402": {
+    "target_id": "dall_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Magnesium and Vitamin D (1000 IU vitamin D3 + 360 mg magnesium glycinate)",
+    "reference_label": "Vitamin D and Magnesium Group"
+  },
+  "groups:claude:403": {
+    "target_id": "dall_2020:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Placebo (cellulose capsules)",
+    "reference_label": "Placebo Group"
+  },
+  "groups:claude:398": {
+    "target_id": "cojic_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Metformin + Vitamin D3",
+    "reference_label": "Metformin + Vitamin D"
+  },
+  "groups:claude:399": {
+    "target_id": "cojic_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Metformin only",
+    "reference_label": "Metformin"
+  },
+  "groups:claude:453": {
+    "target_id": "hoseini_2020:groups:001",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Aerobic training + Vitamin D (AT + Vit D)",
+    "reference_label": "Aerobic training plus vitamin D supplementation"
+  },
+  "groups:claude:454": {
+    "target_id": "hoseini_2020:groups:002",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Aerobic training (AT)",
+    "reference_label": "Aerobic training with placebo"
+  },
+  "groups:claude:455": {
+    "target_id": "hoseini_2020:groups:003",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Vitamin D supplementation (Vit D)",
+    "reference_label": "Vitamin D supplementation"
+  },
+  "groups:claude:456": {
+    "target_id": "hoseini_2020:groups:004",
+    "reason": "Arm labels reviewed by intervention identity, dose and cointervention; group indices alone not used as evidence.",
+    "source_label": "Sedentary control (placebo)",
+    "reference_label": "Sedentary control with placebo"
+  },
+  "data:gpt:1617": {
+    "target_id": "sharifan_2021:data:001",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1618": {
+    "target_id": "sharifan_2021:data:002",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1619": {
+    "target_id": "sharifan_2021:data:003",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1620": {
+    "target_id": "sharifan_2021:data:004",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:gpt:1621": {
+    "target_id": "sharifan_2021:data:005",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1622": {
+    "target_id": "sharifan_2021:data:006",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1623": {
+    "target_id": "sharifan_2021:data:007",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1624": {
+    "target_id": "sharifan_2021:data:008",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:gpt:1625": {
+    "target_id": "sharifan_2021:data:009",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1626": {
+    "target_id": "sharifan_2021:data:010",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1627": {
+    "target_id": "sharifan_2021:data:011",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1628": {
+    "target_id": "sharifan_2021:data:012",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1629": {
+    "target_id": "sharifan_2021:data:013",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1630": {
+    "target_id": "sharifan_2021:data:014",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:gpt:1631": {
+    "target_id": "sharifan_2021:data:015",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1632": {
+    "target_id": "sharifan_2021:data:016",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:gpt:1633": {
+    "target_id": "sharifan_2021:data:017",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1634": {
+    "target_id": "sharifan_2021:data:018",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1635": {
+    "target_id": "sharifan_2021:data:019",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1636": {
+    "target_id": "sharifan_2021:data:020",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:gpt:1637": {
+    "target_id": "sharifan_2021:data:021",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1638": {
+    "target_id": "sharifan_2021:data:022",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1639": {
+    "target_id": "sharifan_2021:data:023",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1640": {
+    "target_id": "sharifan_2021:data:024",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:gpt:1641": {
+    "target_id": "sharifan_2021:data:025",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1642": {
+    "target_id": "sharifan_2021:data:026",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1643": {
+    "target_id": "sharifan_2021:data:027",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1644": {
+    "target_id": "sharifan_2021:data:028",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:gpt:1645": {
+    "target_id": "sharifan_2021:data:029",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:gpt:1646": {
+    "target_id": "sharifan_2021:data:030",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:gpt:1647": {
+    "target_id": "sharifan_2021:data:031",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:gpt:1648": {
+    "target_id": "sharifan_2021:data:032",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3749": {
+    "target_id": "sharifan_2021:data:001",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3750": {
+    "target_id": "sharifan_2021:data:002",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3751": {
+    "target_id": "sharifan_2021:data:003",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3752": {
+    "target_id": "sharifan_2021:data:004",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3753": {
+    "target_id": "sharifan_2021:data:005",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3754": {
+    "target_id": "sharifan_2021:data:006",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3755": {
+    "target_id": "sharifan_2021:data:007",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3756": {
+    "target_id": "sharifan_2021:data:008",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3757": {
+    "target_id": "sharifan_2021:data:009",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3758": {
+    "target_id": "sharifan_2021:data:010",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3759": {
+    "target_id": "sharifan_2021:data:013",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3760": {
+    "target_id": "sharifan_2021:data:014",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3761": {
+    "target_id": "sharifan_2021:data:011",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3762": {
+    "target_id": "sharifan_2021:data:012",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3763": {
+    "target_id": "sharifan_2021:data:015",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3764": {
+    "target_id": "sharifan_2021:data:016",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3765": {
+    "target_id": "sharifan_2021:data:017",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3766": {
+    "target_id": "sharifan_2021:data:018",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3767": {
+    "target_id": "sharifan_2021:data:019",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3768": {
+    "target_id": "sharifan_2021:data:020",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3769": {
+    "target_id": "sharifan_2021:data:021",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3770": {
+    "target_id": "sharifan_2021:data:022",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3771": {
+    "target_id": "sharifan_2021:data:023",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3772": {
+    "target_id": "sharifan_2021:data:024",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3773": {
+    "target_id": "sharifan_2021:data:025",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3774": {
+    "target_id": "sharifan_2021:data:026",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3775": {
+    "target_id": "sharifan_2021:data:027",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3776": {
+    "target_id": "sharifan_2021:data:028",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  },
+  "data:claude:3777": {
+    "target_id": "sharifan_2021:data:029",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_milk"
+  },
+  "data:claude:3778": {
+    "target_id": "sharifan_2021:data:030",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_milk"
+  },
+  "data:claude:3779": {
+    "target_id": "sharifan_2021:data:031",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "plain_yogurt"
+  },
+  "data:claude:3780": {
+    "target_id": "sharifan_2021:data:032",
+    "reason": "Sharifan Table 2 milk/yogurt pairs; original sequence, arm Ns 73/73 milk and 74/69 yogurt and explicit milk/yogurt notes resolve duplicate keys. Stored coordinate mapping, not value-based best-match scoring.",
+    "reference_arm": "fortified_yogurt"
+  }
+}
