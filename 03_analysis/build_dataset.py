@@ -390,7 +390,13 @@ def main():
             reviewed_record_json=v,
         )
     decisions = read("02_data/rules/rationale_decisions.json")
-    assert len(decisions) == 1152
+    with (DATA_DIR / "inputs/rationale_links.csv").open(newline="") as f:
+        links = list(csv.DictReader(f))
+    decision_ids = {
+        (r["study_id"], r["model"], r["robust_item"]): r["assessment_id"] for r in links
+    }
+    assert len(decisions) == len(links) == len(decision_ids) == 1152
+    assert set(decision_ids.values()) == set(decisions)
     fields = []
     texts = []
     serialization = []
@@ -654,8 +660,10 @@ def main():
                     }
                 )
     for row in texts:
-        key = f"{row['study_id']}:{row['model']}:{row['robust_item']}"
+        key = decision_ids[row["study_id"], row["model"], row["robust_item"]]
         decision = decisions[key]
+        assert decision["study_id"] == row["study_id"]
+        assert decision["robust_item"] == row["robust_item"]
         raw = {
             k: row["original_" + k]
             for k in ["support", "step1_support", "step2_support"]
