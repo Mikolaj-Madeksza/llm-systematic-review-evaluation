@@ -1,0 +1,1983 @@
+{
+  "von_hurst_2010:data:003": {
+    "reason": "Source prints reversed quartile order; allow literal transcription as well as ordered endpoints.",
+    "representations": [
+      {
+        "when": {
+          "iqr_low": 0.4,
+          "iqr_high": -0.1
+        },
+        "values": {
+          "iqr_low": 0.4,
+          "iqr_high": -0.1
+        }
+      }
+    ]
+  },
+  "von_hurst_2010:data:004": {
+    "reason": "Source prints reversed quartile order; allow literal transcription as well as ordered endpoints.",
+    "representations": [
+      {
+        "when": {
+          "iqr_low": 0.4,
+          "iqr_high": -0.2
+        },
+        "values": {
+          "iqr_low": 0.4,
+          "iqr_high": -0.2
+        }
+      }
+    ]
+  },
+  "von_hurst_2010:data:007": {
+    "reason": "Source prints reversed quartile order; allow literal transcription as well as ordered endpoints.",
+    "representations": [
+      {
+        "when": {
+          "iqr_low": 18,
+          "iqr_high": -24.5
+        },
+        "values": {
+          "iqr_low": 18,
+          "iqr_high": -24.5
+        }
+      }
+    ]
+  },
+  "von_hurst_2010:data:021": {
+    "reason": "Source prints reversed quartile order; allow literal transcription as well as ordered endpoints.",
+    "representations": [
+      {
+        "when": {
+          "iqr_low": 0.24,
+          "iqr_high": -0.81
+        },
+        "values": {
+          "iqr_low": 0.24,
+          "iqr_high": -0.81
+        }
+      }
+    ]
+  },
+  "von_hurst_2010:data:022": {
+    "reason": "Source prints reversed quartile order; allow literal transcription as well as ordered endpoints.",
+    "representations": [
+      {
+        "when": {
+          "iqr_low": 1.16,
+          "iqr_high": -0.41
+        },
+        "values": {
+          "iqr_low": 1.16,
+          "iqr_high": -0.41
+        }
+      }
+    ]
+  },
+  "yeow_2015:data:013": {
+    "reason": "Table2 explicitly prints both HbA1c unit systems. Compare each statistic against the values for its submitted unit.",
+    "representations": [
+      {
+        "when": {
+          "unit": "%"
+        },
+        "values": {
+          "unit": "%",
+          "median": 5.4,
+          "iqr_low": 5.2,
+          "iqr_high": 5.75
+        }
+      },
+      {
+        "when": {
+          "unit": "mmol/mol"
+        },
+        "values": {
+          "unit": "mmol/mol",
+          "median": 36,
+          "iqr_low": 33,
+          "iqr_high": 39
+        }
+      }
+    ]
+  },
+  "yeow_2015:data:014": {
+    "reason": "Table2 explicitly prints both HbA1c unit systems. Compare each statistic against the values for its submitted unit.",
+    "representations": [
+      {
+        "when": {
+          "unit": "%"
+        },
+        "values": {
+          "unit": "%",
+          "median": 5.3,
+          "iqr_low": 5,
+          "iqr_high": 5.9
+        }
+      },
+      {
+        "when": {
+          "unit": "mmol/mol"
+        },
+        "values": {
+          "unit": "mmol/mol",
+          "median": 34,
+          "iqr_low": 31,
+          "iqr_high": 41
+        }
+      }
+    ]
+  },
+  "yeow_2015:data:015": {
+    "reason": "Table2 explicitly prints both HbA1c unit systems. Compare each statistic against the values for its submitted unit.",
+    "representations": [
+      {
+        "when": {
+          "unit": "%"
+        },
+        "values": {
+          "unit": "%",
+          "median": -0.2,
+          "iqr_low": -0.3,
+          "iqr_high": -0.1
+        }
+      },
+      {
+        "when": {
+          "unit": "mmol/mol"
+        },
+        "values": {
+          "unit": "mmol/mol",
+          "median": -2,
+          "iqr_low": -3,
+          "iqr_high": -1
+        }
+      }
+    ]
+  },
+  "yeow_2015:data:016": {
+    "reason": "Table2 explicitly prints both HbA1c unit systems. Compare each statistic against the values for its submitted unit.",
+    "representations": [
+      {
+        "when": {
+          "unit": "%"
+        },
+        "values": {
+          "unit": "%",
+          "median": -0.2,
+          "iqr_low": -0.4,
+          "iqr_high": 0
+        }
+      },
+      {
+        "when": {
+          "unit": "mmol/mol"
+        },
+        "values": {
+          "unit": "mmol/mol",
+          "median": -2,
+          "iqr_low": -4,
+          "iqr_high": 0
+        }
+      }
+    ]
+  },
+  "javed_2019:data:003": {
+    "reason": "Table1 directly reports relative percent changes, so select these under change-first and mean/SD preference. The prompt did not distinguish relative from absolute changes: accept correctly transcribed absolute follow-up as an alternative, but never construct quartile endpoints from a single IQR width.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "reported_statistic": "median_iqr"
+        },
+        "values": {
+          "mean": null,
+          "sd": null,
+          "se": null,
+          "median": 4.6,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "median_iqr",
+          "value_type": "absolute",
+          "unit": "mmol/L"
+        }
+      }
+    ]
+  },
+  "javed_2019:data:004": {
+    "reason": "Table1 directly reports relative percent changes, so select these under change-first and mean/SD preference. The prompt did not distinguish relative from absolute changes: accept correctly transcribed absolute follow-up as an alternative, but never construct quartile endpoints from a single IQR width.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "reported_statistic": "mean_sd"
+        },
+        "values": {
+          "mean": 4.8,
+          "sd": 0.5,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "unit": "mmol/L"
+        }
+      }
+    ]
+  },
+  "javed_2019:data:007": {
+    "reason": "Table1 directly reports relative percent changes, so select these under change-first and mean/SD preference. The prompt did not distinguish relative from absolute changes: accept correctly transcribed absolute follow-up as an alternative, but never construct quartile endpoints from a single IQR width.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "reported_statistic": "median_iqr"
+        },
+        "values": {
+          "mean": null,
+          "sd": null,
+          "se": null,
+          "median": 2.5,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "median_iqr",
+          "value_type": "absolute",
+          "unit": null
+        }
+      }
+    ]
+  },
+  "javed_2019:data:008": {
+    "reason": "Table1 directly reports relative percent changes, so select these under change-first and mean/SD preference. The prompt did not distinguish relative from absolute changes: accept correctly transcribed absolute follow-up as an alternative, but never construct quartile endpoints from a single IQR width.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "reported_statistic": "median_iqr"
+        },
+        "values": {
+          "mean": null,
+          "sd": null,
+          "se": null,
+          "median": 2.2,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "median_iqr",
+          "value_type": "absolute",
+          "unit": null
+        }
+      }
+    ]
+  },
+  "javed_2019:data:011": {
+    "reason": "Table1 directly reports relative percent changes, so select these under change-first and mean/SD preference. The prompt did not distinguish relative from absolute changes: accept correctly transcribed absolute follow-up as an alternative, but never construct quartile endpoints from a single IQR width.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "reported_statistic": "mean_sd"
+        },
+        "values": {
+          "mean": 90.4,
+          "sd": 19.5,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "unit": "nmol/L"
+        }
+      }
+    ]
+  },
+  "javed_2019:data:012": {
+    "reason": "Table1 directly reports relative percent changes, so select these under change-first and mean/SD preference. The prompt did not distinguish relative from absolute changes: accept correctly transcribed absolute follow-up as an alternative, but never construct quartile endpoints from a single IQR width.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "reported_statistic": "mean_sd"
+        },
+        "values": {
+          "mean": 47.6,
+          "sd": 20.5,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "unit": "nmol/L"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:001": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 0.8,
+          "ci_low": 0.7,
+          "ci_high": 0.9
+        },
+        "values": {
+          "mean": 0.8,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.7,
+          "ci_high": 0.9,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 0.8,
+          "ci_low": 0.7,
+          "ci_high": 0.9
+        },
+        "values": {
+          "mean": 0.8,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.7,
+          "ci_high": 0.9,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:002": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 1,
+          "ci_low": 0.8,
+          "ci_high": 1.1
+        },
+        "values": {
+          "mean": 1,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.8,
+          "ci_high": 1.1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 1,
+          "ci_low": 0.8,
+          "ci_high": 1
+        },
+        "values": {
+          "mean": 1,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.8,
+          "ci_high": 1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:003": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 0.9,
+          "ci_low": 0.8,
+          "ci_high": 1
+        },
+        "values": {
+          "mean": 0.9,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.8,
+          "ci_high": 1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 0.9,
+          "ci_low": 0.7,
+          "ci_high": 0.9
+        },
+        "values": {
+          "mean": 0.9,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.7,
+          "ci_high": 0.9,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:004": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 1,
+          "ci_low": 0.9,
+          "ci_high": 1.1
+        },
+        "values": {
+          "mean": 1,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.9,
+          "ci_high": 1.1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 1,
+          "ci_low": 0.9,
+          "ci_high": 1
+        },
+        "values": {
+          "mean": 1,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 0.9,
+          "ci_high": 1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:005": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.7,
+          "ci_low": 4.5,
+          "ci_high": 5
+        },
+        "values": {
+          "mean": 4.7,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.5,
+          "ci_high": 5,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.7,
+          "ci_low": 4.5,
+          "ci_high": 4.9
+        },
+        "values": {
+          "mean": 4.7,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.5,
+          "ci_high": 4.9,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:006": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.7,
+          "ci_low": 4.5,
+          "ci_high": 4.9
+        },
+        "values": {
+          "mean": 4.7,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.5,
+          "ci_high": 4.9,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.7,
+          "ci_low": 4.5,
+          "ci_high": 4.9
+        },
+        "values": {
+          "mean": 4.7,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.5,
+          "ci_high": 4.9,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:007": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.9,
+          "ci_low": 4.7,
+          "ci_high": 5.2
+        },
+        "values": {
+          "mean": 4.9,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.7,
+          "ci_high": 5.2,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.9,
+          "ci_low": 4.6,
+          "ci_high": 5.1
+        },
+        "values": {
+          "mean": 4.9,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.6,
+          "ci_high": 5.1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:008": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.7,
+          "ci_low": 4.5,
+          "ci_high": 5
+        },
+        "values": {
+          "mean": 4.7,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.5,
+          "ci_high": 5,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 4.7,
+          "ci_low": 4.5,
+          "ci_high": 4.9
+        },
+        "values": {
+          "mean": 4.7,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 4.5,
+          "ci_high": 4.9,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:009": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2.2,
+          "ci_low": 2.1,
+          "ci_high": 2.3
+        },
+        "values": {
+          "mean": 2.2,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 2.1,
+          "ci_high": 2.3,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2.2,
+          "ci_low": 2,
+          "ci_high": 2.3
+        },
+        "values": {
+          "mean": 2.2,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 2,
+          "ci_high": 2.3,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:010": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2,
+          "ci_low": 1.9,
+          "ci_high": 2.2
+        },
+        "values": {
+          "mean": 2,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 1.9,
+          "ci_high": 2.2,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2,
+          "ci_low": 1.9,
+          "ci_high": 2.1
+        },
+        "values": {
+          "mean": 2,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 1.9,
+          "ci_high": 2.1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:011": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2.1,
+          "ci_low": 2,
+          "ci_high": 2.3
+        },
+        "values": {
+          "mean": 2.1,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 2,
+          "ci_high": 2.3,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2.1,
+          "ci_low": 1.9,
+          "ci_high": 2.2
+        },
+        "values": {
+          "mean": 2.1,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 1.9,
+          "ci_high": 2.2,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014:data:012": {
+    "reason": "Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2,
+          "ci_low": 1.9,
+          "ci_high": 2.1
+        },
+        "values": {
+          "mean": 2,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 1.9,
+          "ci_high": 2.1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      },
+      {
+        "when": {
+          "reported_statistic": "mean_ci",
+          "mean": 2,
+          "ci_low": 1.9,
+          "ci_high": 2.1
+        },
+        "values": {
+          "mean": 2,
+          "sd": null,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": 1.9,
+          "ci_high": 2.1,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_ci"
+        }
+      }
+    ]
+  },
+  "tabesh_2014:data:022": {
+    "reason": "Select crude Table4 HOMA changes, consistent with the other arm-level summaries. Models1/2 are legitimate published adjusted summaries and the original prompt did not rank adjustment levels; accept complete matching mean/SD pairs, not mixed pairs.",
+    "representations": [
+      {
+        "when": {
+          "mean": -0.03,
+          "sd": 0.14
+        },
+        "values": {
+          "mean": -0.03,
+          "sd": 0.14
+        }
+      },
+      {
+        "when": {
+          "mean": -0.03,
+          "sd": 0.11
+        },
+        "values": {
+          "mean": -0.03,
+          "sd": 0.11
+        }
+      },
+      {
+        "when": {
+          "mean": -0.02,
+          "sd": 0.09
+        },
+        "values": {
+          "mean": -0.02,
+          "sd": 0.09
+        }
+      }
+    ]
+  },
+  "tabesh_2014:data:023": {
+    "reason": "Select crude Table4 HOMA changes, consistent with the other arm-level summaries. Models1/2 are legitimate published adjusted summaries and the original prompt did not rank adjustment levels; accept complete matching mean/SD pairs, not mixed pairs.",
+    "representations": [
+      {
+        "when": {
+          "mean": -0.03,
+          "sd": 0.2
+        },
+        "values": {
+          "mean": -0.03,
+          "sd": 0.2
+        }
+      },
+      {
+        "when": {
+          "mean": -0.03,
+          "sd": 0.18
+        },
+        "values": {
+          "mean": -0.03,
+          "sd": 0.18
+        }
+      },
+      {
+        "when": {
+          "mean": -0.02,
+          "sd": 0.17
+        },
+        "values": {
+          "mean": -0.02,
+          "sd": 0.17
+        }
+      }
+    ]
+  },
+  "tabesh_2014:data:024": {
+    "reason": "Select crude Table4 HOMA changes, consistent with the other arm-level summaries. Models1/2 are legitimate published adjusted summaries and the original prompt did not rank adjustment levels; accept complete matching mean/SD pairs, not mixed pairs.",
+    "representations": [
+      {
+        "when": {
+          "mean": -0.59,
+          "sd": 0.26
+        },
+        "values": {
+          "mean": -0.59,
+          "sd": 0.26
+        }
+      },
+      {
+        "when": {
+          "mean": -0.53,
+          "sd": 0.22
+        },
+        "values": {
+          "mean": -0.53,
+          "sd": 0.22
+        }
+      },
+      {
+        "when": {
+          "mean": -0.46,
+          "sd": 0.2
+        },
+        "values": {
+          "mean": -0.46,
+          "sd": 0.2
+        }
+      }
+    ]
+  },
+  "tabesh_2014:data:025": {
+    "reason": "Select crude Table4 HOMA changes, consistent with the other arm-level summaries. Models1/2 are legitimate published adjusted summaries and the original prompt did not rank adjustment levels; accept complete matching mean/SD pairs, not mixed pairs.",
+    "representations": [
+      {
+        "when": {
+          "mean": -0.007,
+          "sd": 0.21
+        },
+        "values": {
+          "mean": -0.007,
+          "sd": 0.21
+        }
+      },
+      {
+        "when": {
+          "mean": -0.005,
+          "sd": 0.19
+        },
+        "values": {
+          "mean": -0.005,
+          "sd": 0.19
+        }
+      },
+      {
+        "when": {
+          "mean": -0.003,
+          "sd": 0.17
+        },
+        "values": {
+          "mean": -0.003,
+          "sd": 0.17
+        }
+      }
+    ]
+  },
+  "wagner_2016:data:017": {
+    "reason": "Select unadjusted 25(OH)D baseline/change summaries from Tables1/2. Season-adjusted values are also directly reported and task adjustment preference was unspecified; accept a complete source-published median/IQR triplet without calling it a numerical error.",
+    "representations": [
+      {
+        "when": {
+          "median": 43,
+          "iqr_low": 36,
+          "iqr_high": 50
+        },
+        "values": {
+          "median": 43,
+          "iqr_low": 36,
+          "iqr_high": 50
+        }
+      }
+    ]
+  },
+  "wagner_2016:data:018": {
+    "reason": "Select unadjusted 25(OH)D baseline/change summaries from Tables1/2. Season-adjusted values are also directly reported and task adjustment preference was unspecified; accept a complete source-published median/IQR triplet without calling it a numerical error.",
+    "representations": [
+      {
+        "when": {
+          "median": 43,
+          "iqr_low": 37,
+          "iqr_high": 54
+        },
+        "values": {
+          "median": 43,
+          "iqr_low": 37,
+          "iqr_high": 54
+        }
+      }
+    ]
+  },
+  "wagner_2016:data:019": {
+    "reason": "Select unadjusted 25(OH)D baseline/change summaries from Tables1/2. Season-adjusted values are also directly reported and task adjustment preference was unspecified; accept a complete source-published median/IQR triplet without calling it a numerical error.",
+    "representations": [
+      {
+        "when": {
+          "median": 42,
+          "iqr_low": 32,
+          "iqr_high": 50
+        },
+        "values": {
+          "median": 42,
+          "iqr_low": 32,
+          "iqr_high": 50
+        }
+      }
+    ]
+  },
+  "wagner_2016:data:020": {
+    "reason": "Select unadjusted 25(OH)D baseline/change summaries from Tables1/2. Season-adjusted values are also directly reported and task adjustment preference was unspecified; accept a complete source-published median/IQR triplet without calling it a numerical error.",
+    "representations": [
+      {
+        "when": {
+          "median": 0,
+          "iqr_low": -7,
+          "iqr_high": 11
+        },
+        "values": {
+          "median": 0,
+          "iqr_low": -7,
+          "iqr_high": 11
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:001": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 107,
+          "sd": 5
+        },
+        "values": {
+          "n": 81,
+          "mean": 107,
+          "sd": 5
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:002": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 110,
+          "sd": 8
+        },
+        "values": {
+          "n": 81,
+          "mean": 110,
+          "sd": 8
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:007": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 3.4,
+          "sd": 1.6
+        },
+        "values": {
+          "n": 81,
+          "mean": 3.4,
+          "sd": 1.6
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:008": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 3.9,
+          "sd": 2.5
+        },
+        "values": {
+          "n": 81,
+          "mean": 3.9,
+          "sd": 2.5
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:013": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 139,
+          "sd": 29
+        },
+        "values": {
+          "n": 81,
+          "mean": 139,
+          "sd": 29
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:014": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 139,
+          "sd": 35
+        },
+        "values": {
+          "n": 81,
+          "mean": 139,
+          "sd": 35
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:019": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 12.3,
+          "sd": 6.6
+        },
+        "values": {
+          "n": 81,
+          "mean": 12.3,
+          "sd": 6.6
+        }
+      }
+    ]
+  },
+  "niroomand_2019:data:020": {
+    "reason": "Retain Table2 paired-cohort baseline for consistency with follow-up; n=43/40 is explicitly supported by flow Figure1 and Table3/4, whereas44/39 is not supported. Correct Table1 full-cohort summaries (n81 per arm) are accepted as a coherent baseline alternative; do not pair them with completer denominators.",
+    "representations": [
+      {
+        "when": {
+          "n": 81,
+          "mean": 12.7,
+          "sd": 6.3
+        },
+        "values": {
+          "n": 81,
+          "mean": 12.7,
+          "sd": 6.3
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:001": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 119,
+          "mean": 84,
+          "sd": 8
+        },
+        "values": {
+          "n": 119,
+          "mean": 84,
+          "sd": 8
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:002": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 61,
+          "mean": 84,
+          "sd": 7
+        },
+        "values": {
+          "n": 61,
+          "mean": 84,
+          "sd": 7
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:005": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 119,
+          "median": 33,
+          "iqr_low": 31,
+          "iqr_high": 35
+        },
+        "values": {
+          "n": 119,
+          "median": 33,
+          "iqr_low": 31,
+          "iqr_high": 35
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:006": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 61,
+          "median": 34,
+          "iqr_low": 32,
+          "iqr_high": 35
+        },
+        "values": {
+          "n": 61,
+          "median": 34,
+          "iqr_low": 32,
+          "iqr_high": 35
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:009": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 119,
+          "median": 2.1,
+          "iqr_low": 1.12,
+          "iqr_high": 3.59
+        },
+        "values": {
+          "n": 119,
+          "median": 2.1,
+          "iqr_low": 1.12,
+          "iqr_high": 3.59
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:010": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 61,
+          "median": 2.04,
+          "iqr_low": 1.31,
+          "iqr_high": 2.8
+        },
+        "values": {
+          "n": 61,
+          "median": 2.04,
+          "iqr_low": 1.31,
+          "iqr_high": 2.8
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:013": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 119,
+          "mean": 99,
+          "sd": 24
+        },
+        "values": {
+          "n": 119,
+          "mean": 99,
+          "sd": 24
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:014": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 61,
+          "mean": 93,
+          "sd": 25
+        },
+        "values": {
+          "n": 61,
+          "mean": 93,
+          "sd": 25
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:017": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 119,
+          "median": 0.341,
+          "iqr_low": 0.316,
+          "iqr_high": 0.376
+        },
+        "values": {
+          "n": 119,
+          "median": 0.341,
+          "iqr_low": 0.316,
+          "iqr_high": 0.376
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:018": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 61,
+          "median": 0.343,
+          "iqr_low": 0.327,
+          "iqr_high": 0.367
+        },
+        "values": {
+          "n": 61,
+          "median": 0.343,
+          "iqr_low": 0.327,
+          "iqr_high": 0.367
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:021": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 119,
+          "mean": 50.7,
+          "sd": 19.5
+        },
+        "values": {
+          "n": 119,
+          "mean": 50.7,
+          "sd": 19.5
+        }
+      }
+    ]
+  },
+  "trummer_2019:data:022": {
+    "reason": "Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched.",
+    "representations": [
+      {
+        "when": {
+          "n": 61,
+          "mean": 49.9,
+          "sd": 18.3
+        },
+        "values": {
+          "n": 61,
+          "mean": 49.9,
+          "sd": 18.3
+        }
+      }
+    ]
+  },
+  "wallace_2019:data:009": {
+    "reason": "Keep separate clamp and OGTT visit records, retaining clamp as the stable canonical target of the untyped submitted rows. Accept correctly paired OGTT baseline and directly reported OGTT changes as an alternate visit interpretation. Do not attach the endpoint SD to a change or accept an endpoint when a within-arm change is printed.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "mean": 5.6
+        },
+        "values": {
+          "mean": 5.6,
+          "sd": 0.6
+        }
+      }
+    ]
+  },
+  "wallace_2019:data:010": {
+    "reason": "Keep separate clamp and OGTT visit records, retaining clamp as the stable canonical target of the untyped submitted rows. Accept correctly paired OGTT baseline and directly reported OGTT changes as an alternate visit interpretation. Do not attach the endpoint SD to a change or accept an endpoint when a within-arm change is printed.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute",
+          "mean": 5.7
+        },
+        "values": {
+          "mean": 5.7,
+          "sd": 0.7
+        }
+      }
+    ]
+  },
+  "wallace_2019:data:011": {
+    "reason": "Keep separate clamp and OGTT visit records, retaining clamp as the stable canonical target of the untyped submitted rows. Accept correctly paired OGTT baseline and directly reported OGTT changes as an alternate visit interpretation. Do not attach the endpoint SD to a change or accept an endpoint when a within-arm change is printed.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "change",
+          "mean": 0.1
+        },
+        "values": {
+          "mean": 0.1,
+          "sd": null
+        }
+      }
+    ]
+  },
+  "wallace_2019:data:012": {
+    "reason": "Keep separate clamp and OGTT visit records, retaining clamp as the stable canonical target of the untyped submitted rows. Accept correctly paired OGTT baseline and directly reported OGTT changes as an alternate visit interpretation. Do not attach the endpoint SD to a change or accept an endpoint when a within-arm change is printed.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "change",
+          "mean": 0.2
+        },
+        "values": {
+          "mean": 0.2,
+          "sd": null
+        }
+      }
+    ]
+  },
+  "al_mulhim_2015:data:001": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 85.4,
+          "sd": 8.81,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "week": 0,
+          "unit": "mmol/L"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:002": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 88.2,
+          "sd": 7.42,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "week": 0,
+          "unit": "mmol/L"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:003": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 10.6,
+          "sd": 9.99,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "change",
+          "week": 12,
+          "unit": "mmol/L"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:004": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 2.8,
+          "sd": 8.2,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "change",
+          "week": 12,
+          "unit": "mmol/L"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:005": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 1.2,
+          "sd": 2.26,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "week": 0,
+          "unit": null
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:006": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 1.1,
+          "sd": 2.84,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "week": 0,
+          "unit": null
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:007": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 0.37,
+          "sd": 1.11,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "change",
+          "week": 12,
+          "unit": null
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:008": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": -0.04,
+          "sd": 0.3,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "change",
+          "week": 12,
+          "unit": null
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:009": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 3,
+          "sd": 1.08,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "week": 0,
+          "unit": "ng/mL"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:010": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 2.9,
+          "sd": 0.93,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "absolute",
+          "week": 0,
+          "unit": "ng/mL"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:011": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 2.63,
+          "sd": 1.67,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "change",
+          "week": 12,
+          "unit": "ng/mL"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "al_mulhim_2015:data:012": {
+    "reason": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed.",
+    "representations": [
+      {
+        "when": {
+          "reported_statistic": "mean_sd"
+        },
+        "nonblank_fields": [
+          "sd"
+        ],
+        "blank_fields": [
+          "se"
+        ],
+        "values": {
+          "mean": 28.4,
+          "sd": 9,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "reported_statistic": "mean_sd",
+          "value_type": "change",
+          "week": 12,
+          "unit": "ng/mL"
+        },
+        "source": "AlSheikh 2019 PDF pp.3–4 Tables 1 and 3",
+        "attachment": "UD3WS9K5"
+      }
+    ]
+  },
+  "nimitphong_2015:data:029": {
+    "reason": "The directly reported change and absolute follow-up are accepted source representations. Values must retain their matching change/absolute label; endpoint numbers are not rounding variants of a change.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute"
+        },
+        "values": {
+          "mean": 38,
+          "sd": 5,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "value_type": "absolute",
+          "reported_statistic": "mean_sd"
+        },
+        "source": "Nimitphong 2015 PDF p.3 Table 1"
+      }
+    ]
+  },
+  "nimitphong_2015:data:030": {
+    "reason": "The directly reported change and absolute follow-up are accepted source representations. Values must retain their matching change/absolute label; endpoint numbers are not rounding variants of a change.",
+    "representations": [
+      {
+        "when": {
+          "value_type": "absolute"
+        },
+        "values": {
+          "mean": 39.3,
+          "sd": 5.7,
+          "se": null,
+          "median": null,
+          "iqr_low": null,
+          "iqr_high": null,
+          "ci_low": null,
+          "ci_high": null,
+          "min": null,
+          "max": null,
+          "value_type": "absolute",
+          "reported_statistic": "mean_sd"
+        },
+        "source": "Nimitphong 2015 PDF p.3 Table 1"
+      }
+    ]
+  }
+}

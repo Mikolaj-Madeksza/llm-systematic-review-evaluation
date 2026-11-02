@@ -1,0 +1,4504 @@
+{
+  "agbalalah_2023": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: All investigators/research staff masked to completion; item5 DY/DL source supported. Retain and resolve. Previous source note (superseded where inconsistent): Use longitudinal Table 2 values consistently with its complete-case n=24 per arm. Table values differ slightly from rounded prose/abstract; the directly reported table is retained. No eligible change summaries are reported for these outcomes. Unit typography is equivalent without conversion.",
+    "groups_base": "gpt"
+  },
+  "ahmadi_2021": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Randomly divided into four groups; no sequence or concealment mechanism. PN/PH item1 is specified default. Exercise intervention without explicit blinding statement supports PN for items3/4, not DN. Retain and resolve step1 disagreements. Previous source note (superseded where inconsistent): All reported pairs checked against Table II with four arm headers and baseline/8-week columns. Daily dose is 4000 IU on p. 4. Table II reports mean±SD, with no directly reported change summaries. N and supplied ITT metadata remain distinct from the numerical table verification. Analyzed N and analysis population not established by source; recorded as missing rather than sent to human adjudication. Revision 2026-10-11: preserve supplied ITT metadata as instructed by the extraction prompt; retain reported baseline arm sizes 11/10/10/11 (Subjects, PDF p.3). Follow-up denominators are unresolved, not a definitive blank correction.",
+    "groups_base": "gpt"
+  },
+  "ahmed_2020": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: The investigator delivering the free study programme is explicitly blinded; pharmacist-generated allocation is separate. Identify the actual care role under ROBUST p16, rather than requiring the exact label healthcare provider. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Opaque containers without sequence/seal details supports PY/PL concealment; pharmacist generates sequence but allocation control not specified. Investigator role may be provider: retain DY/PY items4 for PI role interpretation. Item6 worst PP endpoint101/120 established in preceding count audit. Review rationale separately. Previous source note (superseded where inconsistent): PP population is the supplied analysis target. Baseline from Tables 2/5, directly reported mean±SD changes from Tables 4/5 take precedence over follow-up absolute values and mean-change CIs. All seven outcome rows and arm headers checked. Weekly dose metadata 8571 IU/day retained as supplied.",
+    "groups_base": "gpt"
+  },
+  "al_mulhim_2015": {
+    "data_base": "gpt",
+    "data_note": "Both Al-Mulhim 2015 and AlSheikh 2019 were supplied for this extraction task. A source-supported representation from either satisfies the requested outcome/arm. Keep report-specific means, SD/SEM, change/absolute labels, units and 8/12-week follow-up times together; no additional duplicate-report omission is imposed. The Al-Mulhim Table 2 control 8-week vitamin-D value 5.7 ± 1.6 SEM follows the investigator source adjudication. Original source values are preserved.",
+    "groups_base": "gpt"
+  },
+  "al_sofiani_2015": {
+    "data_base": "gpt",
+    "data_note": "All five eligible outcome baseline and change medians/IQR endpoints checked, n10 per arm. Retain directly reported change instead of end values. Twelve weeks,5000IU/day,PP.",
+    "rob_note": "Computer-generated sequence; explicit participant/provider masking; no specific concealment safeguards (PY). Assessor masking probable;2/22 missing=9.1% (PL).",
+    "groups_base": "gpt"
+  },
+  "al_thani_2019": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Sequential IDs, sealed opaque envelopes, and opening the next envelope in attendance order establish the full sequential-opening concealment procedure. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Sequential ID envelopes opened next available; frozen prompt DY versus fuller manual requires irreversible assignment. Keep item2 judgment decision for PI; retract rationale E2 if only conservative criterion interpretation. Previous source note (superseded where inconsistent): All nine outcome baseline/change pairs verified against Table 2. Six months=25.998 weeks under frozen4.333 rule;26 is a rounded alias. Footnote says sample sizes reduced for some variables without identifying which: retain nominal table headers57/75 with explicit qualification, not certified endpoint-specific counts. 4286 IU/day supplied rounded weekly equivalent; text4000 differs from30,000/week.",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "rob_note": "RAND spreadsheet; sealed opaque envelopes in sequential IDs opened next available supports definite concealment. Double-blind without roles supports probable masking.77/209missing=36.8%; additional variable-specific missingness cannot lower DH.",
+    "groups_base": "gpt"
+  },
+  "aliashrafi_2020": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: Data collector explicitly blinded; item5 DY. Labelled figure value27.96 with unreported dispersion is already graph-only outside primary scoring; no PI decision. Previous source note (superseded where inconsistent): Baseline meanSD and directly reported mean-change95%CI checked. FSG baselineSD81.95 is exactly printed despite implausibility; do not guess corrected SD. Figure2 onPDFp22 visually inspected: control25OHD endpoint mean27.96 is explicitly printed and retained, but SD0 is unsupported and replaced with null. No graph heights or error-bar magnitudes estimated.",
+    "rob_note": "Block-stratified allocation without generation detailsPY; independent supervisor, identical placebo,double-blind support probable concealment and participant/provider masking; data-collecting researcher explicitly blindedDY. All44completed and analyzed.",
+    "groups_base": "gpt"
+  },
+  "alvina_2023": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Pharmaceutical staff code identical bottles then blinded investigators distribute; pharmacy-controlled concealment DY. All personnel connected to study explicitly unaware through completion; assessor DY/DL supported. Resolve. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Standard physician-delivered health services for study participants (PDF p. 2). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: All four eligible outcomes and three visits checked, including HOMA min/max. Table 3 has pooled time contrasts, not arm-specific changes, so retain Table2 absolute values. Month conversion12.999/25.998 per frozen prompt. Ordinary standard care and tablet excipient calcium are not a planned active co-intervention, so cointervention0.",
+    "context_aliases": {
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "week_aliases": {
+      "13": 12.999,
+      "26": 25.998
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": []
+  },
+  "anyanwu_2016": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: No random sequence method in primary or permitted companion, PN/PH. Labelled baseline figure is already graph-only; no PI question. Prior PI glucose5.3±68 unchanged. Previous source note (superseded where inconsistent): Baseline glucose/vitaminD and directly reported changeSD verified. HOMA-IR meanCI explicitly in companion text. Primary Figure2 visually labels baseline HbA1c means8.1/7.65 and bars asSEM; retain means as incomplete meanSE with nullSE, not zeroSD. ControlFPG change conflicting4.1 vs5.3 flagged separately. Final PI decision (2026-10-07): Use Table 3 control FPG change +5.3 ± 68 mg/dL.",
+    "rob_note": "Randomized only without method; single-blind without identified group plus placebo supports participantPY, provider/assessorPN. Constant oral antidiabetics support providerPL; objective labsPL.9/42missing21.4% =>DH.",
+    "groups_base": "gpt"
+  },
+  "ardabili_2012": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: Two months8 versus8.666 is rounded time representation. Unlabelled25D graph excludedprimary, no numerical reference value inferred. ProviderPY impliesPL under frozen rule. Previous source note (superseded where inconsistent): All baseline/table change pairs checked. Two months=8.666weeks. Control baseline25OHD only unlabelled graph; neither6.6±1.5 nor7.7±2.9 directly reported, leave numeric fields null. Table3 explicitly reports positive QUICKI changes despite decreases in Table2; retain as printed withNU2 qualification, do not reverse signs or recalculate. ControlFPG malformed minus-dot is clearly-2.73.",
+    "week_aliases": {
+      "8": 8.666
+    },
+    "rob_note": "Computer random numbersDY; concealment claimed but mechanism absentPY; participants explicitly unawareDY, provider/assessor probablePY.10/60excluded16.7%DH.",
+    "groups_base": "gpt"
+  },
+  "asemi_2015": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Table4 positive0.0004 QUICKI change confirmed; retain sign correction. Previous source note (superseded where inconsistent): Four separate factorial arms retained; calcium cointervention1 only in calcium arms. Baseline Table3 and direct changeSD Table4 take precedence. VitaminD-only QUICKI change is POSITIVE0.0004 on renderedTable4, correcting minus sign.26ITT analyzed each withLOCF;8weeks.",
+    "rob_note": "Computer sequenceDY; double-blind double-placeboPY for concealment/participant/provider roles. Glucose/insulin measurements explicitly blinded but vitaminD assay masking not separately specified; combined-domain assessorPY/PL retained. All104included in ITT viaLOCF, so0not-analyzed per frozen item6 definition, despite12without observed followup.",
+    "groups_base": "gpt"
+  },
+  "angellotti_2018": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: Investigators are explicitly masked, but outside treating physicians retained responsibility for diabetes medication changes. Placebo matching supports probable provider masking; definite masking of all relevant care providers is not stated. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Authors call analysis ITT; supplied metadata also offers inferred mITT. Both labels accepted for same model cohort. Week48 HbA1c59+55 explicitly establishes worst eligible missingness. Provider role is not identified; leave DY/PY for PI. Paired assay inference is qualified rationale, not a fabricated safeguard. Previous source note (superseded where inconsistent): Baseline SD and adjusted changes SEM checked, including minus sign for placebo Matsuda. Paper explicitly calls analyses ITT, notmITT. Table2 nominal headers61/59 conflict with endpoint total118 and flow117; do not infer arm-specificN. Week16 HbA1c total117 not header120; week36total114 without arm split; these armNs unknown. Week48 directly provides59/55 in glycemia rows. Total ISR is the requested measure; fasting ISR is outside scope. Vitamin D week24 changes20.5/-1.6 added without inferred dispersion; week48 graph-only values missing.",
+    "groups_base": "gpt",
+    "outcome_variant_defaults": {
+      "ins_secretion_rate": "total"
+    }
+  },
+  "rashad_2023": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Both groups received the same weight-reduction programme, with prospective weight tracking and exclusions for drugs affecting weight/vitamin D. Choose PL for balanced prescribed care; no stronger claim of definite masking or documented additional care imbalance. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table2/3 confirms all21perarm values and printed baseline-minus-followup changes. Returned40/55andsubstitutedvaluesbelongtoanotherreport; clearerrors. Restoremetadata5952 dose. Suppliedmetadata explicitlyopenlabel so acceptDNwithPN for participant/provider certainty if sourceabsenceonly; keep providerPLvsPH forPI ancillarycare judgment. Previous source note (superseded where inconsistent): All four eligible outcomes baselineSD and Table3 direct changeSD verified. Table3 uses baseline-minus-follow-up direction:retain printed signs, do not reverse. Variable dose encoded1 per prompt, not computed5952. All42completed,21each. BJ40/55and substitutedvalues do not belong to this source; reject. Bothgroups received matched500kcal deficit program.",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "5952": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 1,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "cojic_2020": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Open-label participants were instructed not to change diet, activity or sunlight; compliance was monitored and diabetes medication changes led to exclusion. These safeguards make relevant differential self-initiated care unlikely, although not impossible; PL with uncertainty, not DL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Supplied dose3543 reflects the described conditional regimen; restore. Table2 single-parenthesis IQR widths cannot be endpoints; keep absence of unsupported endpoint values. Open-label DN and no sequence detail PN correct. Step2 participant behavior PH versus PL remains PI judgment; providers stable common care PL. Item6 overall12.3% PH, not worstarm24.6% DH. Previous source note (superseded where inconsistent): Longitudinal Table2 provides all24rows. Table4 is between-group adjusted contrast, not individualarm change; retain absolute Table2. HOMA/vitD parentheses singleIQR widths, not endpoints; retain width as auxiliaryiqr and null endpoint fields. Fastingbaseline Table1 differs fromTable2; longitudinal Table2 used consistently and flaggedNU2. Variable dosing needs1code under frozen prompt;3543not a reported fixed dose.",
+    "week_aliases": {
+      "13": 12.999,
+      "26": 25.998
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "3543": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 12.999
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 12.999
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 12.999
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 12.999
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3543,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "bahramian_2023": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: 80randomized76analyzed:5% overallPL. Worst-arm criterion is not protocol worst-outcome rule; settle. Previous source note (superseded where inconsistent): FPG/HOMA-IR two visits and fourarms meanSD checked. No direct change-summary table; absolute followup retained. Separateomega3factor identifiesarms.18/20/20/18completed of20each;8weeks.",
+    "rob_note": "Computer generatedDY; concealment stated without mechanismPY; participants explicitly blindedDY; provider/assessor masking probablePY.4/80missing exactly5%, hencePL (notDL orPH).",
+    "groups_base": "gpt"
+  },
+  "banikazemi_2025": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Physicians, researchers, participants and analysts are masked; the eligible biochemical laboratory assessor role is not separately identified. Double-blind placebo design supports PY; objective assays support PL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Computer-generated sequence explicitDY.103/120overallPH. Laboratory masking not separately identified; researcher/statistician named, leave assessor roleDY/PY for PI. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Shared inositol; the randomized probiotic factor remains cointervention=1. Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: All threeoutcomes baseline/changeSD checked. Fourarms retained with explicitarmidentity: all receivedinositol, so cointervention1 for everyarm per frozen ANYnon-vitD rule. Probioticfactor encoded separately in arm_id; binarycointervention alone is insufficient identifier.4000IU/day8weeksPP.",
+    "match_fields_from_original": [
+      "cointervention"
+    ],
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 0
+        }
+      }
+    ]
+  },
+  "baziar_2014": {
+    "data_base": "gpt",
+    "data_note": "Three evaluated outcomes baseline/change meanSD checked. Cohort analyzed41/40 explicitly in flow and tableheaders; prose82completion is inconsistent and outweighed by flowplusheaders81. ITT designation in modeloutput not substantiated; paper excludes nonadherence/treatmentchanges and analyzescompleters, soPP.",
+    "rob_note": "Sex-stratifiedrandomizationPY; third-personcodedbatches and matchedplaceboPYconcealment. Double-blind without rolesPYitems3–5.6/87notincluded6.9%PL.",
+    "groups_base": "gpt"
+  },
+  "bhatt_2020": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Explicit all121LOCFanalysis, not82completers. Open-label assessor certainty PN/DN is inconsistent across supplied guidance/example; accept both, PL unchanged. Previous source note (superseded where inconsistent): Four queriedoutcomes allvisits checked against Table4 headers0/26/52/78weeks meanSD. Effectsize columns are between-groupcontrasts, not perarmchanges. Variable dose1/calciumcointervention1. ITT61/60LOCF explicitly specified; do not substitutePP41/41.",
+    "groups_base": "gpt"
+  },
+  "carrillo_2013": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Printed Table3vitD2hglucosechange-0.1 and placeboHOMA-0.2 preserved despite arithmetic inconsistency.34recruited23completed is determinate; retain overallDH. No sequence mechanismPN. Previous source note (superseded where inconsistent): All four outcomes baseline/directchangeSD verified. Retain printed negativecontrolHOMAchange-0.2 and vitaminD2hglucosechange-0.1 despite before/aftermeans inconsistency; do notrecalculate.10/13completers; analysisPP notITT. Exercise/calcium/milk cointervention1;4000study dose, backgroundmilkvitD not a separatevitDarm.",
+    "groups_base": "gpt"
+  },
+  "cefalo_2018": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Independent pharmacist holds allocation key and dispenses sequentially numberedidenticalboxes, clearly adequateconcealmentDY. Previous source note (superseded where inconsistent): Fivequeriedoutcomes baseline/followupSDchecked. No directnumericchangeSDavailable. Three months12.999;dose3571suppliedroundedequivalent;9PPeach. Preserve dispositionindexSD56.0 as printed despite suspiciousmagnitude. HOMA2-B retained underrequestedhoma_btoken withvariantnote.",
+    "week_aliases": {
+      "13": 12.999
+    },
+    "rob_note": "Block/stratifiedrandomizationPY withoutspecifiedgeneration. Independentpharmacist heldcodelist and dispensedidenticalsequentialboxesDYconcealment; providerexplicitDY, participant/assessorprobablePY.36randomized18analyzed50%DH;screeningarithmeticinconsistent but randomizeddenominator explicit.",
+    "groups_base": "gpt"
+  },
+  "dastorani_2018": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Randomnumbertableandallocationconcealedfromparticipantsuntilanalyses explicitlyestablishDY. All40ITTretained. Previous source note (superseded where inconsistent): All 16 baseline/direct-change mean SD rows verified against Table 3. Every-other-week dosing uses supplied equivalent 3571. ITT includes all 20 per arm, explicitly stated in results and flow.",
+    "groups_base": "gpt"
+  },
+  "dall_2020": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Randomized withoutgenerationdetailsPNunderfrozenrule. NumericdenominatorsTable18alreadycountreviewverified. Previous source note (superseded where inconsistent): Baseline and direct-change mean SD values verified for all three arms. Table 18 reports both median IQR and mean SD for baseline HOMA; use mean SD per hierarchy. The magnesium plus vitamin D arm is outside the requested extraction scope. Table headers provide nominal Ns; regression-specific reduced Ns in Table 17 apply to different analyses.",
+    "groups_base": "gpt"
+  },
+  "barengolts_2015": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: The research pharmacist knew allocation and adjusted doses, making an intervention-administering provider unblinded. Dose adjustment was the assigned protocol, while other personnel were masked and background 400 IU care was shared; do not count planned titration itself as differential additional care. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Supplied metadata explicitly gives mean8966 for titrated D2, so restore instructed dose rather than code1. Direct+6/+35 changes explicitly printed abstract with unavailable dispersion, retained per change preference. Only pharmacist knew allocation; item1 DY and participant/assessor DY supported. Provider PY retained for PI because dose-adjusting pharmacist knowingly delivered intervention. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: All arms receive a multivitamin including 400 IU/day vitamin D as permitted usual care. Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Table values checked. All subjects received multivitamins containing 400 IU D3; placebo is therefore an active low-dose arm. High-dose D2 was titrated, so variable-dose code 1 replaces its average 8966. Nominal ITT terminology preserved as explicitly used by paper, with 86/87 complete outcome denominators. Direct 12-month vitamin D changes +6/+35 reported in abstract supersede absolute followup; dispersion unavailable, flagged NU1.",
+    "match_fields_from_original": [
+      "vitd",
+      "dose_IU_day_equivalent",
+      "cointervention"
+    ],
+    "week_aliases": {
+      "13": 12.999,
+      "26": 25.998,
+      "39": 38.997,
+      "52": 51.996
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "matsuda",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "matsuda",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "matsuda",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "matsuda",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogis",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogis",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogis",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogis",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 39
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 39
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "vitd": 0,
+          "cointervention": 0,
+          "dose_IU_day_equivalent": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "matsuda",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "matsuda",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogis",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogis",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 39
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 8966,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "dose_IU_day_equivalent": 8966
+        }
+      }
+    ]
+  },
+  "dutta_2014": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Unmasked providers could influence glucose through lifestyle counselling. The main report says all received lifestyle intervention but does not demonstrate balanced delivery or other provider-initiated care. ROBUST pp17-18 supports PH; no documented differential additional care justifies DH. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Methods separate nonrandomizedsufficientGroupC despiteflowmislabel.EligibleA/B125,104analyzed. Observationalrowexclusionssettled. OpenlabelPN/DNassessorcertaintyaccepted; providerPL/PHremainsPIbehaviorjudgment. Previous source note (superseded where inconsistent): All 28 numeric rows checked against Table 1. A/B are randomized vitamin-D-deficient groups; C is the separately selected vitamin-D-sufficient observational comparison, not an eligible randomized arm. Mean follow-up times are arm-specific, not uniform scheduled endpoints. HOMA indices are HOMA2 variants.",
+    "week_aliases": {
+      "122.2": 122.1906,
+      "126.3": 126.32695
+    },
+    "groups_base": "gpt"
+  },
+  "ebadi_2021": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Cointosssequenceandpatients/physiciansblindexplicit. RetainDY; rationalehascorrectsourcefactsbutovercautiousratingnotindependentE2. Previous source note (superseded where inconsistent): All 16 baseline/followup mean SD rows checked. Tables clearly identify arm order despite a reversed parenthesis in abstract. Eight-week intervention endpoint retained from abstract/results, with timing conflict flag because methods also say two weeks after last dose. HOMA indices are HOMA2 variants; protocol uses unitless HOMA-IR despite erroneous source percent label.",
+    "groups_base": "gpt"
+  },
+  "el_hajj_2020": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Coin toss explicit, pharmacist randomizes/packages/codes and sole person aware supports DY concealment/masking. Table2 directly prints all8changes and mean-change95%CI heading but no bounds; retain changes with absent CIs and NU1. ControlFBG+0.05 conflicts with subtraction, retain printed value with uncertainty. Overall9/97=9.3%PL. Previous source note (superseded where inconsistent): Eight baseline mean SD and eight directly reported change rows verified. Change values take priority over absolute follow-up even though CI bounds are absent. Retain printed +0.05 control FBG change, flagged for source sign conflict. Six months=25.998 weeks, 4286 IU supplied daily equivalent.",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "groups_base": "gpt"
+  },
+  "elkassaby_2014": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: An independent clinician explicitly unblinded to allocation contacted participants and adjusted their vitamin D dose. This clinician administers intervention and therefore is a provider under ROBUST, despite investigator masking. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Dose6129 supplied for loading+titration; restore. FPG three-month changes explicitly in prose; retain. HbA1c -0.2/-0.1 are graph estimates without numerical labels, prohibited by prompt: restore Table2 absolute5.9[5.7,6.5] and6.1[5.7,6.5]. One-month25D115/54explicit, quartiles not reported; no zero endpoints. Independent unblinded clinician only contacts for dose but no other role: item4 role-specific rating requires contextual review. Previous source note (superseded where inconsistent): All four queried outcomes checked. Direct three-month FPG/HbA1c median changes preferred; six-month graph changes lack numerical labels, so retain tabulated absolute results. One-month vitamin D medians are explicitly reported, with missing quartiles instead of zeros. Dose varied after loading and titration: protocol code 1.",
+    "week_aliases": {
+      "13": 12.999,
+      "26": 25.998
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "6129": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 4.333
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6129,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "esfandiari_2019": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Codedcapsulespreventpatientsknowingassignment,explicitparticipantmaskDY. RatingdifferencealoneisnotindependentrationaleE2. Previous source note (superseded where inconsistent): All 16 baseline/absolute follow-up mean SD rows verified. PC columns are relative percent changes, not changes in the outcome units, and are not substituted for absolute outcome changes. Preserve printed HbA1c mmol/l unit with metadata warning rather than silently converting to percent. 25 per arm analyzed, eight weeks, supplied dose 7143.",
+    "groups_base": "gpt"
+  },
+  "foroozanfard_2015": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: Investigators were masked, but the midwife assigning participants is not explicitly described as masked. Placebo-controlled design supports PY/PL for the provider role. Explicit blinded assays refer to inflammatory/oxidative markers, outside this assessment scope. Eligible glucose/insulin/vitamin D assay masking is inferred from the double-blind design: PY/PL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Visually verified Table1 means62.1/41.7/50.6/45.8 and SE6.2/5.2/6.5/12.4; Table2 changes13.7/-8.6/-3.4/-11.1 with SE6.4/4.3/5.3/9.1. Decimal and endpoint/change errors clear. FPG only measured as HOMA input, no glycemic outcome summaries: scope excludes glycemia. Participants explicitly blinded. Provider role of investigator and assay restriction leave item4/5 PY versus DY for PI; rationale reconsider from full text. Previous source note (superseded where inconsistent): Centered dots are decimal points, not omitted digits. All eight HOMA-B baseline/change mean SE rows checked. Placebo change +13.7; vitamin-D-only change SE 5.3 and calcium+D SE 9.1. Model values 621/62 etc are decimal parsing errors. Use unadjusted Table 2 changes rather than adjusted Table 3 when no adjusted-estimand request was supplied.",
+    "groups_base": "gpt"
+  },
+  "foroughi_2016": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Prose explicitly reports changes-12/-3,-1.75/.12,+68/-1.9. Preserve SD/SE uncertainty C from previous decision. Table1 vitD unit nmol/l versus prose nmol/ml proves source-unit typo: accept both unit strings, no numerical conversion. All displayed changes retain source signs. Previous source note (superseded where inconsistent): All 16 queried baseline/followup rows checked. Prefer directly stated changes for FPG, HOMA-IR and vitamin D; HOMA-B has absolute followup only. The type of parenthetical change dispersion is not defined, so preserve its number separately without classifying it as SD or SE. Ten weeks consistently stated in abstract and intervention paragraph; isolated six-week sentence treated as source inconsistency.",
+    "rob_note": "Computer random numbers; matching placebo/double-blind supports probable concealment and masking, no role-specific laboratory statement. Ultrasound masking is not evidence of biochemical assessor masking. All 60 analyzed, zero exclusions.",
+    "groups_base": "gpt"
+  },
+  "gagnon_2014": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: Independentpharmacistdispenses/titrates;allresearchstaffmasked. CountsTable2disposition33/43alreadyverified. Graph-onlyunchangedcontrolcannotbezero;excludedprimary,settled. Previous source note (superseded where inconsistent): Baseline SD and direct change CI checked against tables. Follow-up FPG is not numerically reported. Vitamin D control described as unchanged, which does not support exact zero mean/SD. Graph-only 2/4-month records and control 6-month record retain missing numeric values; no digitization. Six-month treatment change 48 [41,56] explicitly reported.",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "groups_base": "gpt"
+  },
+  "garg_2015": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: InsulinogenicunitmicroIU/Lpermg/dLexplicitinthemeasurementdefinition, retainmissing-unitcorrection. Previous source note (superseded where inconsistent): All 24 mean SD baseline and absolute followup rows verified. Rightmost column is between-group difference in change, not within-arm change. Both groups received metformin and lifestyle advice, cointervention 1. Monthly 120000 IU explicitly supplied as 4000 IU/day equivalent. Insulinogenic unit is explicitly microIU/L per mg/dL in p. 4 (visually checked).",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "rob_note": "Computer-generated simple random code; matching placebo and double-blind trial with no detailed concealment or role-specific masking: items 2–5 probably yes/low. Flow 17/19 allocated, 15/17 analyzed; 4/36=11.11% not analyzed, probably high.",
+    "groups_base": "gpt"
+  },
+  "ghani_2022": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Dose4061 supplied: restore. Figure2 visibly prints baseline11.5±10.1 and12.7±13.8; y-axis says mean95%CI while general statistical methods meanSD. Do not classify printed dispersion uniquely as CI or erase agreed SD: retain SD candidates, mark statistic/dispersion classification C. Patient and investigator explicitly blinded; GraphPad sequence; overall3/30=10%PH, not worst-armDH. Restore uncertainty treatment, resolve clear ratings. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Same lifestyle modification program in both groups (PDF pp. 1, 3). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Glycemic rows checked against Table 2. Vitamin D baseline exact graph labels retained, but Figure 2 axis specifies mean/95% CI, not SD: preserve printed dispersion separately without calculating CI endpoints. Change mean SD explicitly defined in abstract. Variable weekly then monthly dosing code 1, lifestyle cointervention 1.",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "4061": 1
+      },
+      "cointervention": {
+        "0": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4061,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "guo_2022": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Select prose-reported HOMA change -0.30 +/-0.72. Table2 -10.30 contradicts both prose and baseline3.69/follow-up3.38; the latter is a source typo, not a second valid estimate. No new change value is calculated. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: NarrativeHOMAchange-0.30±0.72 conflictsTable-10.30; bothareprinted. Source-errorchoice remainsPI, not cleartranscription. All111ITTandnamedsubjects/staff/assessormaskingexplicit. Previous source note (superseded where inconsistent): The corn-oil control arm is outside the requested extraction scope. Baseline/change SD verified. HOMA intervention change -0.30±0.72 directly stated in results, versus implausible -10.30±0.72 in Table 2; use explicit prose value with NU2, no derived change. Vitamin D baseline ng/L and change pg/L retained literally with unit conflict warning. Day 90 governs endpoint over rounded three-month wording.",
+    "week_aliases": {
+      "13": 12.857142857142858,
+      "12.857": 12.857142857142858
+    },
+    "groups_base": "gpt"
+  },
+  "hajipoor_2022": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: MethodsFPGmg/dLversusTable5mg/L. Bothsourceunitlabelsacceptedwithoutconvertingnumbers. ParticipantmaskexplicitDY. PriorPI/TableNsandCunchanged. Previous source note (superseded where inconsistent): 2026-10-13 count review supersedes prior count interpretation: Table 5 explicitly reports 31/28/30/30, while Figure 1 explicitly reports glycemic assays 23/12/12/12 and also conflicts on group-4 completion (29 versus 30). Restore table Ns; actual analyzed counts are C. The item-6 Definitely High judgment is invariant (at least 21/140 missing). Other extraction decisions are unchanged.",
+    "match_fields_from_original": [
+      "cointervention"
+    ],
+    "groups_base": "claude",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 10
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 10
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 10
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 10
+        },
+        "set": {
+          "cointervention": 0
+        }
+      }
+    ]
+  },
+  "harris_2012": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Table2 gives adjusted meanSEM changes and medians. MeanSE hierarchy selected; median is an inapplicable extra field in these rows, not a missing true outcome. Retain selected meanSE, resolve schema mismatch. Previous source note (superseded where inconsistent): All 36 baseline and 12-week rows checked. Table 2 adjusted mean SEM changes outrank accompanying medians under the frozen hierarchy. Added two six-week vitamin D graph-only records with missing values; no graph estimation. Calcium 600 mg/day given to both arms; 4000 IU/day assigned dose, not assayed capsule content.",
+    "groups_base": "gpt"
+  },
+  "hoseini_2020": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Participants knew exercise versus no exercise assignment. Activity outside sessions and compensatory behaviour could affect the eligible metabolic outcomes; equivalent diet alone does not establish balanced outside activity. PH, not DH; the assigned exercise effect itself is not bias. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Exerciseassignmentnotmasked; participantbehaviorPLvsPHisPIjudgment. Previous source note (superseded where inconsistent): All 24 requested rows checked against the four-arm table. Absolute follow-up values retained because direct within-arm changes are not reported. Weekly50000 IU, eight weeks, ten participants per arm; exercise cointervention applies only to the two training arms.",
+    "groups_base": "gpt"
+  },
+  "hoseini_2022": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Exercise assignment was apparent; self-initiated activity/adherence could plausibly differ and influence glycemia. PH reflects that pathway, not the intended exercise effect. Training was delivered to a specified supervised protocol, with diet and activity recorded repeatedly. No additional discretionary treatment pathway is described beyond the assigned exercise; choose PL with uncertainty, without treating planned supervision as an extra cointervention. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: RandomNumberGeneratorexplicitDY. Exercisebehavior/providercointerventionjudgmentsremainPI. Distinguishallocationconcealmentfrompostallocationmasking; qualifiedrationalenotfabricatedfact. Previous source note (superseded where inconsistent): All 24 requested rows checked against the four-arm table. Direct changes retained as printed; no computed changes. Weekly50000 IU, eight weeks, ten participants per arm; exercise cointervention applies only to the two training arms.",
+    "groups_base": "gpt"
+  },
+  "hussain_2019": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: The clinical investigators administering the outpatient trial are explicitly blinded alongside patients, radiologist and laboratory staff. Their clinical role supports provider DY/DL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Computer-generatednumbersandpatientmaskexplicit. InvestigatormaskingversusproviderroleleavePI. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Dietary restrictions and physical-activity advice advocated to all patients (PDF p. 2). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: All eight HOMA-IR and vitamin D baseline/follow-up values checked against Table 3. Its title mentions changes but cells are explicitly baseline/end-point values, not change scores. Planned diet restriction and physical-activity advice for all participants require cointervention1.",
+    "context_aliases": {
+      "cointervention": {
+        "0": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      }
+    ]
+  },
+  "imanparast_2020": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Only vitamin D placebo is described. Daily chromium and combined regimens are distinguishable; no chromium placebo or double-dummy scheme is reported across all four arms. Whole-trial participant masking is PN; differential medication expectations and self-care plausibly affect glycemia: PH. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table2 explicitly prints baseline-minus-followup vitaminD differences and CIs; retain printed negatives and change classification. Random division without adequate sequence details PN. VitaminD-placebo does not establish chromium masking: participant step1/step2 requires PI interpretation of partial masking. Previous source note (superseded where inconsistent): All32requestedrows checked. Table2 directly reports within-arm mean differences with95%CIs, including vitaminD; these outrank absolute follow-up. Source uses baseline-minus-follow-up direction; do not reverse signs. HbA1c differences are internally inconsistent with endpoints but retained as printed and flagged. Four-month duration17.332weeks. Stable pretrial diabetes treatment is background care; chromium identifies cointervention arms.",
+    "groups_base": "gpt"
+  },
+  "irani_2015": {
+    "data_base": "gpt",
+    "data_note": "All12baseline/followup meanSEM rows checked. No directly reported changes in the queried indices; eight-week biochemical assessment within two weeks of completing treatment, separate from later clinical follow-up. HOMA2 calculator explicitly used.",
+    "groups_base": "gpt"
+  },
+  "jafari_2016": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: PermutedblockswithoutgenerationmethodPY;participantsexplicitlymaskedDY. BaselineSE4.5(Table3)and4.52(Table1)bothpublished, acceptboth. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Shared yogurt vehicle and weight-maintenance diet (PDF pp. 2–3). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: All24unadjusted whole-arm meanSE rows verified in Table3. Absolute follow-up retained; Table4 adjusted levels are not change scores. Baseline vitaminD SE4.5 in Table3 is rounded from4.52 in Table1; retain the more precise directly reported Table1 value. Weight-maintenance diet prescribed to all subjects supports cointervention1.",
+    "context_aliases": {
+      "cointervention": {
+        "0": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 2000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 1
+        }
+      }
+    ]
+  },
+  "jamilian_2017": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: AllocationconcealedfrompopulationexplicitparticipantmaskDY. Previous source note (superseded where inconsistent): All15rows checked. FPG changes appear in narrative only; baselineFPG not numerically reported. Table3 unadjusted meanSD preferred to adjustedSE Table4. PlaceboHOMAchange+0.1 follows Table3, consistent with3.0→3.1; prose has contradictory minus sign. Allarms received metformin titrated to1500mg/day.",
+    "groups_base": "gpt"
+  },
+  "javed_2019": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: Table1 directly reports relative percent changes, so select these under change-first and mean/SD preference. The prompt did not distinguish relative from absolute changes: accept correctly transcribed absolute follow-up as an alternative, but never construct quartile endpoints from a single IQR width. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table1 visually verified. Baseline medians are4.7/2.9/2.1 with IQR widths. Endpoint rows and directly reported percent changes are both genuine source data; prompt does not explicitly exclude relative changes. Retain follow-up estimand-selection differences for PI, not automatically certify change% as erroneous. Three-month12/13wk difference is accepted rounding, noterror. Missing baseline rows remain clear omissions. Previous source note (superseded where inconsistent): All12baseline/absolute follow-up rows checked. Table percent changes are relative rather than absolute changes; keep absolute endpoint data in original units. Correct fabricated quartile endpoints: table provides only IQR widths. Stable background metformin and usual lifestyle are not assigned cointerventions.",
+    "week_aliases": {
+      "13": 12.999,
+      "12": 12.999
+    },
+    "groups_base": "gpt"
+  },
+  "jorde_2009": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: HOMAsecretionunitexplicitdefinitionandtable; retainreportedunit, no inferenceofunitless. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Pre-existing insulin and metformin continued unchanged in both groups (PDF pp. 1–2). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: All20baseline/changeSD rows checked against Table1. Table refers to32completers;16each. Stable pretrial insulin/metformin doses were not a newly assigned intervention. Preserve sourceHOMAsecretion unit; HOMAIRunitnull per protocol.",
+    "context_aliases": {
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "week_aliases": {
+      "26": 25.998
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": []
+  },
+  "jorde_2010": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Independenthospitaldepartmentallocationandclinicalstaffmaskadequateconcealment. Baseline150/139/149differfromchange114/104/112; retainverifiedNs. GenericdoubleblindparticipantPY. Previous source note (superseded where inconsistent): All36baseline/changeSD rows checked. BaselineNs150/139/149 explicitly differ from changeNs114/104/112; do not replace baselineNs with completers. Allarms500mg/daycalcium. Primary2010report has separate dose arms and meanSD; later cytokine report pools vitaminD arms with different cohort counts and median ranges and does not replace this extraction.",
+    "groups_base": "gpt"
+  },
+  "kampmann_2014": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Two-stage11200/5600regimen; supplieddose6533explicitaverage:restoreinsteadcode1. GenericdoubleblindPY/PL; assessorsnamedseparately. Previous source note (superseded where inconsistent): Incremental AUC is the requested first-phase insulin measure; total AUC is outside scope. Tables use meanSE and directly reported changes. Variable two-stagevitaminD dosing coded1, not a computed average. HbA1c fractional values under a percent heading preserved exactly with a source-inconsistency flag.",
+    "outcome_variant_defaults": {
+      "first_phase_ins": "incremental_AUC_1_10min"
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "6533": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "clamp_m",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "clamp_m",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "first_phase_ins",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "first_phase_ins",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "first_phase_ins",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "first_phase_ins",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 6533,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "krul_poel_2015": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Independent pharmacist allocation plus explicit masking of the whole research team delivering the intervention supports provider DY/DL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Pharmacistrandomizationadequateconcealment. ResearchteamproviderroleDY/PYremainPI. Previous source note (superseded where inconsistent): All24whole-cohortrecords checked. Table2A contains absolute baseline/follow-up statistics; adjusted between-group beta is not a within-arm change. mITT includes129VD/132placebo with last observation carried forward. Table2A placebo vitaminD follow-upSD27.4 preferred to inconsistent abstract23.2. Three-month values were measured but no exact whole-arm numbers are supplied.",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "groups_base": "gpt"
+  },
+  "kumar_2024": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Single-blind trial compares vitamin D plus standard drugs with drugs alone without matching placebo. Differential self-care can affect glycemia: PH. Standard diabetes drugs were started in newly diagnosed participants, but an identical fixed treatment/titration protocol across unmasked care providers is not established. Discretionary pharmacotherapy can affect glycemia, supporting PH under ROBUST, not an assumed PL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Directly stated median reductions43/43,0.5/0.7,0.53/0.45 confirmed; no dispersion given. Keep as printed, not endpointIQR. Restore supplied dose3831. Item3PH versusPL and item4PL versusPH involve behavioral/ancillarycare judgment, retain PI choices. Previous source note (superseded where inconsistent): Baseline meanSD fromTable1 outranks medians inTable2. Six directly reported whole-arm median reductions in results text outrank absolute follow-up; no change-IQR supplied, so null rather than borrowing endpointIQR. Dosing varies by baseline deficiency and treatment phase:code1. Botharms newly treated with antidiabetic drugs,co1.",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "3831": 1
+      }
+    },
+    "week_aliases": {
+      "26": 25.998
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3831,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3831,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3831,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3831,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3831,
+          "cointervention": 1,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3831,
+          "cointervention": 1,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "lemieux_2019": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Baseline Table1 SD preferred over Table4 SE under explicit hierarchy; source n47 and baseline8.2 confirmed in count review/Table1. Researchpersonnel explicitly masked supports item5DY/DL. Mixed-model baseline inclusion establishes item6DL despite unresolved exact counts. Retain source-supported decisions; full rationale separately. Previous source note (superseded where inconsistent): All36originalrecords checked; baselineSD fromTable1 takes priority over Table4 adjustedSE. Added three-monthvitaminD means122.9/52.2 with unavailableSD. Six-monthdirectmeanCIchanges retained. Table4 provides endpoint-specific counts, including47VDfastingglucosebaseline rather than nominal48. HOMA2-B and C-peptide-derived insulinogenic index identified explicitly.",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "groups_base": "gpt"
+  },
+  "mahmood_2016": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Table3 FPG change -0.01 mg/dL in each arm is compatible with both endpoint means rounding to 103. Retain the reported change under the explicit change-first rule; dispersion is not reported, not replaced by endpoint SD. QUICKI changes -0.41/-1.20 contradict positive baseline/endpoints; use Table2 absolute 0.32 +/-0.03 rather than guessing a decimal repair. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table3 directly reports changes with no dispersion, but QUICKI-.41/-1.2 and FBS-.01/.01 are inconsistent with endpoint summaries and possible scale/printing error. Retain these FPG/QUICKI rows for PI source-error exception versus literal change preference. HOMA+0.63/+1.11 and25D+10.8/-.02 source-confirmed; restore supplied dose3956. Previous source note (superseded where inconsistent): Sixteen records checked. Table3 directly reported mean changes take priority over Table2 endpoints; eight missingchangeSDs are null. Variableweekly/monthlydosingcode1. No new assigned cointervention; additional usualcare permitted.",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "3956": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "quicki",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 3956,
+          "cointervention": 0,
+          "week": 25.998
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "maktabi_2017": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: VitaminDchange14.7±10.5explicitratherthanendpoint27.5±9. SubjectsallocationconcealedthroughanalysisDY. Provider/assessorPYshouldhavePL, notDL. Previous source note (superseded where inconsistent): All 20 baseline and directly reported change records checked against Table 1. Mean ± SD; 35 per arm, 12 weeks, 50,000 IU every two weeks (3571 IU/day equivalent). Vitamin D change is 14.7 ± 10.5, not an absolute endpoint substituted for change. No assigned cointervention.",
+    "groups_base": "gpt"
+  },
+  "mitri_2011": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: Retain the literal Table3 Si unit as the canonical representation, accepting the dimensionally conventional L-positive version as a source-label normalization. This changes no number or scale and is not a substantive extraction error; acceptance is limited to these eight Si rows. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table3 explicitly prints baselineHbA1c5.9±0.1 in all arms; Table1 moreprecise5.91/5.89 andSEM. Both source versions valid: accept each stated value in corresponding baseline field, no precision penalty. Table3 Si unit L^-1 is printed; L formulation differs dimensionally and needs PI source-typo policy. Doublemask unspecified participant role supports PY, laboratory masking explicit supports DY; do not code rating-only rationale interpretation as E2. Previous source note (superseded where inconsistent): All 56 records checked. Mean ± SEM. Retain more precise baseline HbA1c from Table 1. Table 3 first change column is adjusted for age, BMI and baseline; Figure 2 disposition-index changes additionally adjust for race and season. Exact caption values are reported, not graph estimates. Endpoint-specific denominators include LOCF participants. Preserve Si unit as printed (including L^-1), without dimensional correction.",
+    "groups_base": "claude"
+  },
+  "mohammadi_2016": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: SPSSsequencegenerationexplicitDY;retain. Previous source note (superseded where inconsistent): Twelve absolute mean ± SD records checked; no directly reported arm changes. 28 vitamin D and 25 placebo completers, 12 weeks (explicitly stated), 7143 IU/day equivalent. Lifestyle intervention assigned to both arms.",
+    "groups_base": "gpt"
+  },
+  "molani_gol_2025": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Withinarm MD95%CIs explicitly printed inTable3; retain change preference. All statistical analyses explicitly ITT with mean imputation so89completers not89analysisexclusions, retain96andDL. Tableheaders45/44 reflect observed completers and data rows retain these; no evidence of a different PP analysis. Rationale distinguish acknowledgingheaders from explicitly excludingimputedcases. Previous source note (superseded where inconsistent): Twelve records checked; baseline mean ± SD and directly reported arm changes with 95% CIs. Between-group adjusted effects are not arm changes. Table-specific n=45/44 retained, despite stated ITT mean imputation of all 96; this inconsistency is documented. 3571 IU/day equivalent, 12 weeks, no assigned cointervention.",
+    "groups_base": "gpt"
+  },
+  "moreira_lucas_2016": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: Fixed28000IUweeklyis4000daily, notvariablecode1. All71ITTBOCF. PriorPI50.6withoutCIsandgraph-onlyscopepreserved. Previous source note (superseded where inconsistent): Thirty-six records checked against baseline SD and reported change CI columns. 4000 IU/day equivalent is fixed weekly dosing, not variable-dose code 1. All 71 included through baseline observation carried forward. Table 2 is physically clipped in the supplied PDF: vitamin D change mean 50.6 is readable but its CI cannot be verified; these bounds are finally adjudicated blank by the PI. Placebo insulinogenic-index CI is printed 0.18 to 0.39 despite mean 0.10: preserve and flag, do not invent a minus sign. Final PI decision (2026-10-07): Retain vitamin-D change mean 50.6 nmol/L with no confidence-interval bounds.",
+    "groups_base": "gpt",
+    "outcome_variant_defaults": {
+      "homa_b": "HOMA2_B"
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "1": 4000
+      }
+    }
+  },
+  "morvaridzadeh_2021": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: The researcher who supplies and monitors yogurt packs is explicitly unaware of their company-coded contents. This is the intervention provider, supporting DY/DL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Controlusualstartercultures;activeadditionalprobioticsconfirmed. Controlco1canrepresentsharedyogurtvehicleperPIcodingclarification; accept0/1forcontrolonly. ResearcherproviderroleDY/PYremainPI. Previous source note (superseded where inconsistent): Twelve absolute mean ± SD records checked. 1000 IU/day, 12 weeks, 44 completers each. Added probiotic strains are confined to the vitamin D arm (cointervention=1); control contains ordinary starter cultures only (cointervention=0), despite being called probiotic yogurt in the flow diagram.",
+    "groups_base": "gpt",
+    "context_overrides": [
+      {
+        "match": {
+          "vitd": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      }
+    ]
+  },
+  "mostafai_2018": {
+    "data_base": "claude",
+    "data_note": "Only yogurt arms A/B were requested; oral vitamin-D arm C is excluded by metadata_reference_standard column Z. Yogurt is a shared vehicle within the eligible contrast. Both 0 and 1 are accepted under the shared-background-care encoding rule. Source-reported means/SDs and changes are retained. Whole-trial masking judgments are assessed separately.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "cointervention": {
+        "0": 1
+      }
+    }
+  },
+  "mousa_2017": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Table2 source changes verified; placebo firstphase+24±184 not negative. Dose4893supplied incorporatesbolus: restore. All parties masked. Item6overall11/65DH; rationale worst-armrule separatelycheck. Previous source note (superseded where inconsistent): Sixteen records checked. Baseline mean SD or median quartiles; directly reported mean SD changes. Placebo first-phase insulin change is positive 24 ± 184, visually verified, not -4 or -24. Bolus followed by maintenance is variable dosing, code 1. 16 weeks, PP 28/26, no assigned cointervention.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "4893": 1
+      }
+    },
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "clamp_m",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "clamp_m",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 16
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 16
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "first_phase_ins",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "first_phase_ins",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 16
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4893,
+          "cointervention": 0,
+          "week": 16
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "naderpoor_2018": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Intervention investigators and participants/outcome assessors are explicitly masked until analysis; independent randomization and matching placebo separate allocation from care delivery. DY/DL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Restore supplied4893 forbolus+maintenance;4000maintenance alone plausibly describes differentdose, keep supplied4893canonical. Source onlyrandomized no generationmechanism PN. Eligible dataTable4only25D/clampM, notcompanionglycemia/betacell. InvestigatorproviderroleDYversusPY forPI. Previous source note (superseded where inconsistent): Eight records checked against this report, not the 120-person cross-sectional cohort. Mean ± SD baseline and direct changes, 28/26 PP, 16 weeks. Vitamin D baseline is 31.3 in this report (31.4 in Mousa); retain report-specific evidence. Bolus then maintenance coded 1.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "4000": 1,
+        "4893": 1
+      }
+    },
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "clamp_m",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "clamp_m",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 16
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1,
+          "cointervention": 0,
+          "week": 16
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "nikooyeh_2011": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Abstract directlyreports active-arm changes withSD; noerror inreferencechoice. Sharedyogurt coding preserved. Resolve. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Shared doogh vehicle and weight-maintenance diabetic diet; additional calcium in DCY remains cointervention=1. Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: The calcium-plus-vitamin-D arm is outside the requested extraction scope. Direct mean SD changes in abstract preferred for active arms, absolute follow-up retained for placebo where changes are not reported. 30 per arm, 1000 IU/day, 12 weeks. Assigned weight-maintenance diabetic diet continued with dietitian-directed dairy replacement: cointervention 1 in all arms. Preserve separate identities for DY versus DCY.",
+    "groups_base": "gpt",
+    "match_fields_from_original": [
+      "cointervention"
+    ],
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "hba1c",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 1000,
+          "cointervention": 0,
+          "week": 12
+        },
+        "set": {
+          "cointervention": 0
+        }
+      }
+    ]
+  },
+  "nimitphong_2015": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Directlyreported D2change12.82±3.58 andD3change13.07±4.10. Raw12.8±3.6 and13.1±4.1 are harmless reportedprecision reduction; accept bounded one-decimal representations perfield, not arbitrarytolerance. Openlabel no assessor-specificunblinding: manualitem5defaultPN iscorrect. Previous source note (superseded where inconsistent): Thirty records checked. Mean SD. Three-month visit=12.999 weeks. D2/D3 pooled glycemic results explicitly reported for n=29, marked as pooled dosing rather than invented average; serum vitamin D remains separate by randomized formulation/dose. Direct D2/D3 changes from p. 5 use the more precise 12.82±3.58 and 13.07±4.10. No assigned cointervention.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "13": 12.999
+    },
+    "outcome_variant_defaults": {
+      "homa_ir": "HOMA2_IR",
+      "homa_b": "HOMA2_B",
+      "disposition_index": "HOMA2_B_divided_by_HOMA2_IR"
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "2857.142857": 2857,
+        "2142.857143": 2143
+      }
+    }
+  },
+  "niroomand_2019": {
+    "data_base": "claude",
+    "data_note": "Table 2 paired-cohort baseline and follow-up values are retained. The abstract reports 44/39 completers, whereas Figure 1 and Tables 3–4 report 43/40. The report does not resolve the arm-specific discrepancy. Arm-specific analyzed counts and dependent attrition quantities are category C; the consistent overall total of 83 remains usable. Supplied variable-regimen dose and shared background-care encodings remain accepted.",
+    "week_aliases": {
+      "13": 12.999,
+      "26": 25.998
+    },
+    "context_aliases": {
+      "cointervention": {
+        "0": 1
+      },
+      "dose_IU_day_equivalent": {
+        "4396": 1
+      }
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 13
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4396,
+          "cointervention": 0,
+          "week": 26
+        },
+        "set": {
+          "dose_IU_day_equivalent": 1
+        }
+      }
+    ]
+  },
+  "oosterwerff_2014": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Prefer raw-scale baseline summaries and Model1 (univariable) follow-up where only log-scale model means are printed. Retain explicit scale metadata. The original prompt gave no transformation/model hierarchy, so coherent source-published Model1/Model2 alternatives remain acceptable; do not combine a mean and CI from different models. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table3 means/CIs are ln-transformed, unlike Table1 raw medians; hierarchy cannot justify swapping scales without a rule. Keep baseline raw-versus-log choice for PI, and followupModel1versusModel2 choice; both models published so do not claimonefalse. 16wk versus4mo17.332/17.333 is source time-label equivalence, acceptall. Table1vsprose25Dprecision acceptmatchingrounded22/11. ITTall130verified, concealment/masking sourcechecked. Previous source note (superseded where inconsistent): Eighteen records checked. Mean CI takes priority over median IQR for HOMA/insulinogenic baseline; use consistent adjusted Model 2. Baseline Matsuda mean SD retains priority. Clearly distinguish natural-log model estimates from raw measurements; do not exponentiate. Explicit 16-week trial duration used for final visit, 2 months=8.666 weeks. Vitamin D baseline more precise Table 1, follow-ups prose. Calcium 500 mg/day cointervention in both arms.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "17.332": 16,
+      "17.333": 16,
+      "8.667": 8.666
+    }
+  },
+  "osati_2016": {
+    "data_base": "claude",
+    "data_note": "2026-10-12 investigator coding clarification: Balanced weight-maintenance diet accompanying supplementation/placebo (PDF p. 5). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Twenty baseline/direct change records checked against Tables 1–2. Retain Table 2 HOMA-beta change -33.33±26.72 over reversed prose. Balanced weight-maintenance diet assigned to both arms, cointervention 1. Vitamin D unit mg/dL is the source label, implausible but not converted. 50,000 IU weekly=7143 rounded; 8 weeks. Follow-up sample sizes not expressly reported; do not assume no attrition from baseline n=105.",
+    "context_aliases": {
+      "cointervention": {
+        "0": 1
+      },
+      "dose_IU_day_equivalent": {
+        "7142.857142857143": 7143,
+        "7142.857": 7143
+      }
+    },
+    "outcome_variant_defaults": {
+      "homa_ir": "HOMA2_IR",
+      "homa_b": "HOMA2_B"
+    },
+    "groups_base": "gpt",
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "fasting_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_ir",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "ogtt_2h_pg",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 7143,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "serum_25ohd",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 8
+        },
+        "set": {
+          "cointervention": 1
+        }
+      }
+    ]
+  },
+  "raja_khan_2014": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Table1 directlyreports withinarmadjusted changes/CIs; all reviewedvaluesverified. ISI0,120 isnotMatsuda scientifically, but suppliedmetadata explicitly maps it to requested matsuda token; accept rawtoken asfaithfultasklabel while retaining corrected outcomevariant. Provider administeringcoordinator explicitly maskedDY; permutedblockswithoutgenerationmethodPY; ITTall28verified. Previous source note (superseded where inconsistent): Twenty-four records checked: baseline mean SD and direct model-based change CIs, adjusted for OCP use and season. ITT mixed-model n=13/15, not 11/11 completers. 12000 IU/day, 12 weeks, ordinary unchanged diet/OCP not newly assigned cointerventions. The index mislabeled Matsuda in both extractions is ISI0,120; corrected name with source identity preserved.",
+    "context_aliases": {
+      "outcome": {
+        "matsuda": "isi_0_120"
+      }
+    },
+    "groups_base": "gpt"
+  },
+  "rajabi_naeeni_2020": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: The researcher administering coded packages and monitoring participants is explicitly blinded to A/B/C/D contents; this identifies the provider role and supports DY/DL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: ITT168explicitversus160observed,retaincounts. InvestigatormaskingproviderroleDY/PYforPI. Previous source note (superseded where inconsistent): Thirty-two records checked across all four arms. Baseline mean SD and directly reported adjusted change mean SD; retain stated unusual HOMA-B scale. 42 each in explicit ITT analysis, 8 weeks, 3571 IU/day equivalent. Omega-3 arms alone receive cointervention.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "3571.43": 3571
+      }
+    }
+  },
+  "rashad_2019": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Both arms received calcium, maintained usual diet/activity, and were prohibited from relevant lipid/reproductive medication changes. The source describes no discretionary additional care likely to affect these assays; PL with uncertainty is preferable to PH based only on possible unmasking. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Commoncalcium/stablecare; providerPLvsPHjudgmentforPI. Previous source note (superseded where inconsistent): Sixteen absolute mean SD records checked for the 55/40 intervention comparison. Exclude unrelated healthy-control cross-sectional cohort. 6000 IU/day, 12 weeks, calcium cointervention in both arms, complete-case PP.",
+    "groups_base": "gpt"
+  },
+  "rasouli_2021": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: 2423randomized,1774availabledatamodel;retaincountsandeligibleoutcomescope. Clinicalcoordinatingcenterassertionnotreported, retainfactualrationaleerror. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Diabetes-prevention information sheets and twice-yearly meetings for both groups (PDF p. 3). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Table 2 absolute medians and quartiles retained; model percent differences are not raw arm changes. Insulin-based index variants are requested; C-peptide index variants are outside scope. Fixed 4000 IU/day, annual 52/104-week visits, per-protocol analysis. Both arms received diabetes-prevention sheets and twice-yearly meetings.",
+    "groups_base": "claude",
+    "context_aliases": {
+      "cointervention": {
+        "0": 1
+      }
+    },
+    "outcome_variant_defaults": {
+      "disposition_index": "DI_insulin",
+      "homa_b": "HOMA2_B_insulin",
+      "insulinogenic_index": "IGI_insulin"
+    },
+    "encoding_matching_values": [
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "disposition_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "homa_b",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 0
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 52
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 1,
+          "dose_IU_day_equivalent": 4000,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      },
+      {
+        "source_identity": {
+          "outcome": "insulinogenic_index",
+          "vitd": 0,
+          "dose_IU_day_equivalent": 0,
+          "cointervention": 0,
+          "week": 104
+        },
+        "set": {
+          "cointervention": 1
+        }
+      }
+    ]
+  },
+  "rezagholizadeh_2018": {
+    "data_base": "claude",
+    "data_note": "Twenty records checked against Tables 2 and 4; use direct mean SD changes except provisionally retain HbA1c absolute follow-up because its change table is internally incompatible. All 40 randomized participants completed, fixed 4000 IU/day for 8 weeks, no assigned cointervention. Final PI decision (2026-10-07): Use Table 2 absolute HbA1c: vitamin D 6.60 ± 0.96; placebo 7.64 ± 1.15; disregard Table 4 changes.",
+    "groups_base": "gpt"
+  },
+  "ryu_2014": {
+    "data_base": "gpt",
+    "data_note": "Sixteen absolute records checked. Baseline randomized N79 each; 24-week PP N64 vitamin D/65 placebo. HOMA median quartiles, other outcomes mean SD. Explicit 1000 IU twice daily equals 2000/day; calcium 100 mg twice daily in both arms.",
+    "groups_base": "gpt"
+  },
+  "safarpour_2020": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Genericdoubleblind/codeblindingwithoutnamedroles;participantPY/PLfrozenrule. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Background antihyperglycemic medication; medication changes excluded (PDF pp. 3–4). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Twenty absolute mean SD records, N42/43, mITT as authors describe, weekly 50000 IU (7143/day), 8 weeks. No assigned cointervention. Explicit analysis totals take precedence over vague missing-data mITT statement.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "7142.857142857143": 7143,
+        "7142.857": 7143
+      },
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "encoding_matching_values": []
+  },
+  "salarinia_2023": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Unmasked trainers had repeated contact in exercise arms, whereas controls had no equivalent contact intervention; discretionary encouragement/advice could affect metabolic behaviours. Choose PH under ROBUST pp17-18; do not label the intended exercise effect itself bias or claim documented differential additional treatment (DH). Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Baseline25DdescriptiveonlynotfollowupRoBoutcome. Wholeexerciseassignmentnotmasked. ProviderbehaviorPLvsPHforPI; interpretationofattentionisnotfabricatedsourceclaim. Previous source note (superseded where inconsistent): Twenty-four absolute mean SD records checked in four arms, PP N10 each, 8 weeks, 50000 IU/week rounded to 7143/day; exercise is cointervention. Baseline vitamin D shown descriptively, not an assessed follow-up outcome.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "7142.857": 7143
+      }
+    }
+  },
+  "salehi_2018": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Tables1/4bothpublished:baselineFPG140±45/53and139±50, HbA1cSD1.5/1.3and2/1. Acceptsource-specificalternatives; no precisioncorrection. Allinvestigatorsmasked; source-backedconcealment/assessorretained. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Matched plain/fortified milk delivery vehicle; no additional randomized nutrient factor. Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Twenty-four baseline/direct-change mean SD records. Outcome Table 4 used consistently for glucose; more precise baseline HbA1c SD from Table 1. ITT N50 plain/51 fortified milk, 1000 IU/day 9 weeks. Milk is the matched delivery vehicle, cointervention 0.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "encoding_matching_values": []
+  },
+  "salehpour_2013": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: Fixed25microgramdailyexplicit1000IUequivalent;code1notapplicable, retaincorrection. Previous source note (superseded where inconsistent): Twenty baseline/direct-change mean SD records; fixed 25 micrograms/day equals 1000 IU, 12-week follow-up explicitly stated despite 90-day methods. PP N39/38; no cointervention. Retain mmol/mol HbA1c values as printed, flag incompatible percentage and change entries without recalculating.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "1": 1000
+      }
+    }
+  },
+  "salekzamani_2016": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Table3CIsinternallyimpossible:controlFPG(-2.79,-3.79),activeHOMA(.67,.52). No uniquelyverifiedsignrepair:boundsCretained, plausibleflaggedsignguessnotE2. Direct25Dchange61.93printed. Overall9/80PH. Previous source note (superseded where inconsistent): Sixteen records checked; baseline mean SD and direct changes preferred. Vitamin D increase 61.93 is explicitly reported with no dispersion; placebo decrease only qualitative, retain its absolute endpoint. Fixed 50000 weekly rounded 7143/day for explicit 16 weeks; PP35/36, no cointervention.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "7142.857142857143": 7143,
+        "7142.857": 7143
+      }
+    }
+  },
+  "seyyed_abootorabi_2018": {
+    "data_base": "gpt",
+    "data_note": "Twenty baseline/direct-change mean SD records verified. Outcome table PP N19/17 overrides erroneous Table 1 header21. Fixed weekly50000 rounded7143/day,8weeks,cointervention0.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "7142.857142857143": 7143,
+        "7142.857": 7143
+      }
+    }
+  },
+  "shab_bidar_2011": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: ExaminersunawareofallocationexplicitassessorDY; PIcountsunchanged. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Matched plain/fortified doogh and stable pre-existing medication. Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Sixteen mean SD baseline/direct-change records. Table 3 N50 each provisionally retained. Fixed 1000 IU/day for12weeks. Plain/fortified doogh identical delivery vehicle; stable existing medication is not an assigned cointervention. Preserve baseline mmol/L and change mg/dL glucose units without conversion. Final PI decision (2026-10-07): Retain n=50 per arm and 0% missing; ROBUST item 6 Definitely Low, U2. Do not derive attrition from category totals.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "encoding_matching_values": []
+  },
+  "sharifan_2021": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Sourceuses200cc/dmilk;200g/dapproximatelysamefoodservingdescription, labelnotaccuracyfield. Removefakeunitlabeldecision. StratifiedpermutedblockswithoutalgorithmPY. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Matched milk and yogurt vehicles; food-pair identities remain explicit in arm_id. Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Thirty-two absolute mean SD records across matched milk and yogurt pairs. Change columns are between-group contrasts (SE), not arm changes. Preserve distinct food-pair identities. Fixed1500 IU/day,10weeks. PP289 completers despite ITT label; food vehicle alone co0.",
+    "groups_base": "gpt",
+    "context_aliases": {
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "encoding_matching_values": []
+  },
+  "sharifi_2014": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: Researchers conducting reminders, adherence and adverse-event follow-up were explicitly concealed from allocation until statistical analysis. Independent packing/enrolment separate these care providers from allocation. Explicit blinded examiner refers to ultrasound fatty-liver grading, not the eligible metabolic assays. General double-blind/researcher masking supports PY for eligible assessors; objective assays support PL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: 50000/14=3571.428...roundingaccepted. Participantmaskexplicit; examinerblindingrefersultrasoundnoteligibleassays, researcherprovider/assessorrolesPI. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Diet/activity advice recommended to all participants as standard NAFLD care (PDF p. 3). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Twelve baseline/direct-change median quartile records. Four months→17.332weeks;fixed50000 IU/14days→3571/day;PP27/26;no cointervention.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "17.33": 17.332
+    },
+    "context_aliases": {
+      "dose_IU_day_equivalent": {
+        "3571.428571": 3571,
+        "3571.428571428572": 3571
+      },
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "encoding_matching_values": []
+  },
+  "sollid_2014": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Allocation known only to pharmacy/research data function; everyone else was blinded, and all investigators were kept masked by sending data directly to that function. Clinical visit providers fall within the explicitly blinded group. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table3specifies2.5th/97.5thpercentiles, notquartiles. Boundsretainedauxiliaryfields, notiqr_low/high. No inventquartiles. Allinvestigatorsmasked;assessorsDY, providerrolePIifdisputed. Previous source note (superseded where inconsistent): Twenty-four baseline/direct-change records, explicit1year52weeks,2857 IU/day,co0. Table3 is primary PP analysis,N256/255 baseline and242/242 change. HOMA/QUICKI footnote explicitly says median with2.5th/97.5th percentiles; these are not quartiles. Retain medians and archive percentile limits separately, unavailable IQR flagged.2016 companion not substituted for2014 target report.",
+    "groups_base": "gpt"
+  },
+  "sun_2023": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Matching tablets mask vitamin D but not exercise assignment. Additional self-directed exercise or other behaviour could affect metabolic endpoints: PH for the all-arm assessment. Qualified trainers delivered a prespecified monitored load and participants had stable diabetes therapy by eligibility. Choose PL for structured delivery, rather than counting the assigned training as an unplanned cointervention. The report does not identify blinded eligible-outcome assessors; matching supplement tablets do not establish masking to the visible exercise factor. Whole-trial assessor PN, with objective-assay PL retained. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Supplement-basedchangesalreadyexcludedprimary; settlequeue. Participant/providerbehaviorandassessorinferencePI. External-lab/random-orderqualifiedrationalenotfabricatedmasking. Previous source note (superseded where inconsistent): 2026-10-13 count review: t1/t2 Ns15/15/14/15 and t3 Ns13/11/12/12 were already correctly separated and are retained. RoB48/61 concerns t3 only and is supplement-augmented, excluded from primary scoring. Baseline mean/SD;12-week direct arm changes with95%CI from TableS3 for fasting glucose,HbA1c,HOMA-IR; absolute Matsuda remains from main Table1. Added24-week absolute mean/SD from TableS4 and its arm Ns. Fixed1000IU/day,exercise co1. Control fasting-glucose change prints+0.4 despite declining absolute means; preserve withNU2.",
+    "groups_base": "gpt"
+  },
+  "tabesh_2014": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: All investigators explicitly blinded, with only the independent randomizing technician exempt. Investigators administering/monitoring supplementation are the relevant providers: DY/DL. Select crude Table4 HOMA changes, consistent with the other arm-level summaries. Models1/2 are legitimate published adjusted summaries and the original prompt did not rank adjustment levels; accept complete matching mean/SD pairs, not mixed pairs. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table4crudeHOMA-.03/-.03/-.59/-.007withSD. CurrentreferenceModel2-.02/-.02/-.46/-.003despiteclaimcrude; bothpublished. KeepmodelselectionPI. InvestigatorproviderrolePI. Previous source note (superseded where inconsistent): Baseline means SD and crude arm changes used; Table4 explicitly labels SD, not SE. Preserve exact prose HbA1c combined-arm change. Unlabeled Figure2 bar heights are not numeric evidence; add flagged missing follow-up records rather than estimate. Fixed7143 IU/day8weeks,calcium co1,ITT LOCF118.",
+    "groups_base": "gpt"
+  },
+  "tepper_2016": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Tablenmol/Lglucosetypoversusphysiologicalmmol/Lacceptedwithoutnumericconversion. HOMA-Bunitpercentageorunspecifiedvalidrepresentation. Direct25Dchanges14.53±19.14and25.43±13.73retained. PPPIpreserved. Previous source note (superseded where inconsistent): Twenty-four meanSD records, absolute except directly stated12-month vitaminD changes14.53±19.14 control/25.43±13.73 active. CompletecasePP52/78;100000IU every2months→1648/day;6months25.998weeks,explicit1year52. No cointervention. Printed glucose nmol/L retained with unit-error flag.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "26": 25.998,
+      "51.996": 52
+    }
+  },
+  "trummer_2019": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Retain outcome-specific paired baseline values from Tables2/3 to match the final analysis. Correct Table1 all-randomized baseline values with n119/61 are also source-supported; prompt did not specify a baseline-cohort rule. Accept only coherent count/statistic combinations. The investigator decision about unresolved 12-week HbA1c n is untouched. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: BaselineTable1allrandomizedvsTable2pairedcohortbothvalid;PIcohortselectionneeded. LaterHbA1cNs74/38verifiedpreviousreview. InvestigatorsexplicitassessorsmaskedDY; genericparticipantmaskPY, rhetoricnotindependentE2. Previous source note (superseded where inconsistent): Twenty-four complete-case baseline/follow-up records verified in matched outcome-specific samples. Between-arm treatment effects are not within-arm changes. Table2/3 paired baseline cohort preferred to Table1 allrandomized. Weekly20000→2857/day;24weeks,co0. Available-case authorsITT label retained with explicit noimputation qualification. Retrieved supplement adds12-week paired cohorts, distinguished from24-week cohorts. HbA1c sample labels in supplement are impossible (placebo85 exceeds61 randomized); no arm N inferred. Final PI decision (2026-10-07): Keep HbA1c n blank for paired 12-week cohort; retain printed medians/IQRs without reversing arm labels.",
+    "groups_base": "claude",
+    "outcome_variant_defaults": {
+      "fasting_pg": "paired_24_week_cohort",
+      "ogtt_2h_pg": "paired_24_week_cohort",
+      "hba1c": "paired_24_week_cohort",
+      "homa_ir": "paired_24_week_cohort",
+      "quicki": "paired_24_week_cohort"
+    }
+  },
+  "tuomainen_2015": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Table2FPG/OGTTnmol/Ltypo;mmol/Lplausiblenormalizationaccepted. SingleIGIIQRwidthnotquartileendpoint. PooledTable1baselinesnotarm-specific, exclusionsvalid.65worstendpointcountverified. Previous source note (superseded where inconsistent): Twenty-four direct changes verified plus3arm-specific vitaminD baselines from prose,SDunavailable. Table1 pooled baseline must not be copied into each arm. Five months21.665weeks,1600/3200IU,PP,co0. IGI reports singleIQRwidth and totalN65 without arm allocation; preserve width separately and armNnull.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "21.67": 21.665
+    },
+    "outcome_variant_defaults": {
+      "homa_b": "HOMA2_B",
+      "homa_ir": "HOMA2_IR"
+    },
+    "excluded_contexts": [
+      {
+        "outcome": "fasting_pg",
+        "week": 0
+      },
+      {
+        "outcome": "ogtt_2h_pg",
+        "week": 0
+      },
+      {
+        "outcome": "hba1c",
+        "week": 0
+      },
+      {
+        "outcome": "homa_b",
+        "week": 0
+      },
+      {
+        "outcome": "homa_ir",
+        "week": 0
+      }
+    ]
+  },
+  "von_hurst_2010": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Table2andproseHOMA1printreversedquartileorder. Restoreorderedlow/highwithoutchanginganynumericvalue; acknowledgeprintreversal. Explicit3month25Dmediansretained;12/12.999timeequivalent. Previous source note (superseded where inconsistent): HOMA2, glycemia and vitamin D are requested; HOMA1 is outside scope;baseline/directchange medians and percentiles. Three/six months12.999/25.998weeks.4000IU/day,PP42/39,co0. Several source percentile pairs reversed; preserve literal order withNU2 rather than silently edit.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "12": 12.999,
+      "26": 25.998
+    },
+    "outcome_variant_defaults": {
+      "homa_ir": "HOMA2_IR",
+      "homa_b": "HOMA2_B"
+    }
+  },
+  "wagner_2016": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: Select unadjusted 25(OH)D baseline/change summaries from Tables1/2. Season-adjusted values are also directly reported and task adjustment preference was unspecified; accept a complete source-published median/IQR triplet without calling it a numerical error. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Tables1/2sourcebothunadjustedandseasonadjusted25D. PIadjustmentchoice. OCR2fornegative3/5correctnegativebound,settle. Previous source note (superseded where inconsistent): Baseline and directly reported absolute changes, medians and quartiles. Use unadjusted 25(OH)D rather than the season-adjusted alternative. Authors call the 43-person available cohort intent-to-treat after one protocol exclusion.",
+    "groups_base": "gpt"
+  },
+  "wallace_2019": {
+    "data_base": "claude",
+    "data_note": "Final delegated adjudication 2026-10-13: The researcher obtains participant-numbered sealed bottles from pharmacy and is explicitly blinded while dispensing; care-provider role is directly linked to masking: DY/DL. Keep separate clamp and OGTT visit records, retaining clamp as the stable canonical target of the untyped submitted rows. Accept correctly paired OGTT baseline and directly reported OGTT changes as an alternate visit interpretation. Do not attach the endpoint SD to a change or accept an endpoint when a within-arm change is printed. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Tables2/4explicitwithin-groupchangeswithoutSD:restorechangevaluesinsteadabsolutes. SeparateclampandOGTTvisitsbothhaveFPG, currentmappingneedsPI choicefororiginalrows. Populationunclearmetadataandcountconflict:retaincandidateITTandmarkC, notscorePPasfalse. ProviderrolePI. Previous source note (superseded where inconsistent): 2026-10-13 count review supersedes prior count interpretation: Tables label 35/31; flow says analyzed34/30, primary33/29; text says no completers analysis but does not explain reconciliation or imputation. Retain table representations but classify follow-up Ns and derived RoB count/judgment as C; neither interpretation uniquely established. Other extraction decisions are unchanged.",
+    "groups_base": "gpt",
+    "outcome_variant_defaults": {
+      "homa_ir": "HOMA2_IR",
+      "homa_b": "HOMA2_B",
+      "fasting_pg": "clamp_visit"
+    }
+  },
+  "wamberg_2013": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: Doubleblind+similarplaceboparticipantPYunderfrozenrule; explicitmaskedrhetoricdoesnotinventnewprocedure, retractindependentrationaleE2. Previous source note (superseded where inconsistent): Paired completer cohort, explicitly called modified ITT. Baseline and 26-week absolute mean/SD or median/quartiles. Table 3 paired baselines take precedence over all-randomized Table 1. Continue usual habits is not an assigned cointervention.",
+    "groups_base": "gpt"
+  },
+  "wongwiwatthananukit_2013": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: ITTseriesmeanimputationincludes90, not84observed;retain. Previous source note (superseded where inconsistent): Three arms, weekly doses rounded to 2857/5714 IU/day; 8 weeks. Table 2 explicitly uses ITT series-mean imputation: 30 analyzed per arm despite 28 observed. Absolute mean/SD pairs; FPG mg/dl from Table 2 rather than erroneous Table 1 insulin unit.",
+    "groups_base": "claude"
+  },
+  "yeow_2015": {
+    "data_base": "gpt",
+    "data_note": "Final delegated adjudication 2026-10-13: Offsite manufacturer randomization and allocation concealed from investigators until study completion; investigators conduct repeat visits and supply capsules. This identifies masked intervention providers: DY/DL. Prior notes (superseded where inconsistent): 2026-10-13 remaining-correction review: Table2printsHbA1cinbothmmol/moland%;accepteachcoherentunit/numericrepresentation, noarithmeticconversion. CountCpriorreviewpreserved. ProviderrolePI. Previous source note (superseded where inconsistent): 2026-10-13 count review supersedes prior count interpretation: Tables explicitly label13/13, while methods say ITT and listwise deletion and results say11/11 completed. Restore13 throughout the data representation. Follow-up Ns and resulting RoB count/judgment are C; baseline13 remains verifiable. Other extraction decisions are unchanged.",
+    "groups_base": "claude",
+    "week_aliases": {
+      "26": 25.998
+    },
+    "outcome_variant_defaults": {
+      "insulinogenic_index": "IGI60"
+    }
+  },
+  "yousefi_rad_2014": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: PermutedblockswithinBMIstratawithoutspecifiedgeneratorPY;retain. Previous source note (superseded where inconsistent): 2026-10-12 investigator coding clarification: Pre-existing metformin/glibenclamide and maintained usual habits (PDF p. 2). Shared background-only coding accepts 0 or 1; active additional factors remain distinct. The cointervention/usual-care interpretation in the earlier source-review note below is superseded. Earlier source-review note: Baseline and directly reported changes with SE, not SD. Two months =8.666 weeks; 4000 IU/day. Existing metformin/glibenclamide and unchanged usual habits are not assigned cointerventions.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "8.667": 8.666
+    },
+    "context_aliases": {
+      "cointervention": {
+        "1": 0
+      }
+    },
+    "encoding_matching_values": []
+  },
+  "zaromytidou_2022": {
+    "data_base": "claude",
+    "data_note": "2026-10-13 remaining-correction review: ExplicitopenlabelassessorPN/DNcertaintyacceptedasguidance/examplesconflict;PLunchanged. CountCpreserved. Previous source note (superseded where inconsistent): 2026-10-13 count review supersedes prior count interpretation: Original summaries refer to completers42/35, while a separate mixed-model ITT analysis covers all glycemic indices and vitamin D after13/90 dropped out. Table3 has no n labels linking each mean/SD to a specific model. Preserve selected42/35 but classify that unresolved analysis-denominator assignment and RoB count/judgment as C;45/45 is not an established error. Other extraction decisions are unchanged.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "13": 12.999,
+      "26": 25.998,
+      "52": 51.996
+    }
+  },
+  "zarrin_2017": {
+    "data_base": "gpt",
+    "data_note": "Three months=12.999 weeks;1000IU/day, PP51/53. Baselines Table2 and direct changes Table3 mean/SD. Preserve direct changes instead of recalculating from endpoints; flag conflicting placebo HbA1c/vitamin D arithmetic.",
+    "groups_base": "gpt",
+    "week_aliases": {
+      "13": 12.999
+    }
+  },
+  "zhang_2023": {
+    "data_base": "gpt",
+    "data_note": "2026-10-13 remaining-correction review: All243includedBOCF;212observedfinalnotanalyzedcohort. RetaincountsandDL. Previous source note (superseded where inconsistent): Baseline and direct within-arm changes (95%CI) for insulin indices; absolute mean/SD for FPG/HbA1c. Insulin indices are log-transformed as table footnotes specify; retain this scale, no back-transformation. ITT baseline observation carried forward includes243. Exact vitaminD baseline/12week values are unavailable from unlabeled bars; add explicit missing records.",
+    "groups_base": "gpt"
+  }
+}
