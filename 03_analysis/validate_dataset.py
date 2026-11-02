@@ -120,12 +120,24 @@ def main():
             assert x["original_uncertainty_type"] == original.get(key)
     decisions = read(DATA_DIR / "rules/rationale_decisions.json")
     assert len(decisions) == 1152 and len(d["rationales"]) == 1152
+    assert {r["semantic_decision_id"] for r in d["rationales"]} == set(decisions)
+    assert all(
+        r["adjudicator"] == "MM" and "model" not in r and "reviewer" not in r
+        for r in decisions.values()
+    )
     for row in d["rationales"]:
         assert row["semantic_status"] == "reviewed"
         assert row["semantic_decision_id"] in decisions
+        decision = decisions[row["semantic_decision_id"]]
+        assert row["adjudicator"] == decision["adjudicator"]
+        assert row["text_sha256"] == decision["text_sha256"]
         for k in ["support", "step1_support", "step2_support"]:
             assert row["original_" + k] == row["reviewed_" + k]
         for version in ["original", "reviewed"]:
+            assert (
+                row[version + "_rationale_error"]
+                == decision[version + "_rationale_error"]
+            )
             assert row[version + "_rationale_error"] in [0, 1]
             assert row[version + "_item_composite_error"] == (
                 int(

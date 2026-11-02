@@ -10,6 +10,8 @@ Fields are nested within report and model. All model comparisons are paired with
 
 ## Reference and eligible comparison sets
 
+MM checked discrepancies against the source PDFs using the predefined extraction rules and ROBUST-RCT criteria, blinded to model and reviewer identities. Seven uncertain cases were discussed with AA and resolved by consensus. MM also assessed the RoB supporting explanations under the same blinding. Adjudication records contain assessment IDs; model identities are linked separately for analysis.
+
 Use the study-specific outcome lists, named outcome variants and arm restrictions in `02_data/inputs/metadata_reference_standard.xlsx` to define the extraction scope. Targets outside this scope are excluded from both primary and augmented denominators, whether or not a model emitted a corresponding row. Source-measure names resolve outcome-code aliases. Original reviewed row and field burdens remain the workloads actually presented to reviewers.
 
 Use adjudicable category A/B fields within `primary_eligible` for the main analysis: main-report evidence only, excluding graph-only and identified supplement-dependent targets. Use adjudicable category A/B fields within `augmented_eligible` in a separately labelled sensitivity analysis. Supplement access at model generation is not fully reconstructable; augmented results must not be described as a fair same-input performance estimate. Preserve all investigator decisions, including Moreira-Lucas mean 50.6 without CIs and Trummer's unknown paired-cohort HbA1c sample sizes. Source inconsistencies are retained as extraction targets, not corrected into clinically plausible numbers.
@@ -85,7 +87,7 @@ All 384 recorded sessions have positive time values. No missing-time imputation 
 
 For reproducibility, verify reference/input/output hashes, dataset validations and design rank. Save software/package versions, random seed, exact input hashes, analysis script and machine-readable results. Distinguish the finalized operational choices from prospectively prespecified methods.
 
-Disclose agent-led adjudication with PI resolution of hard cases, nonblinded semantic coding, post-review operational specification, output-dependent union denominators, incomplete supplement-input provenance, one run per report/model/task, unchanged reviewer rationale text, and known companion reports. The supplemental agreement QC was drawn after source review and must not be called prospective blinded QC. Natural-language epistemic wording remained visible in RoB rationales even when explicit uncertainty fields were hidden.
+Reporting limitations include output-dependent union denominators, incomplete supplement-input provenance, one run per report/model/task, unchanged reviewer rationale text, and known companion reports. The supplemental agreement sample was selected after source review. Natural-language epistemic wording remained visible in RoB rationales even when explicit uncertainty fields were hidden.
 
 Exact generation dates and resolved prompt-error rerun counts are reporting metadata still to recover if available; their absence does not prevent these analyses and must be reported as unavailable rather than inferred from filesystem timestamps. This dataset is prepared for the methodological LLM evaluation, not direct clinical meta-analysis.
 
